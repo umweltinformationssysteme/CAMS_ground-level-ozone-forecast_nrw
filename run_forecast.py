@@ -48,7 +48,7 @@ def download_cams_forecast(output_path: str, today: str) -> None:
     covering today, tomorrow and the day after tomorrow.
     """
     api_key = os.environ.get("CDS_API_KEY")
-    api_url = os.environ.get("CDS_API_URL", "https://ads.atmosphere.copernicus.eu/api/v2")
+    api_url = os.environ.get("CDS_API_URL", "https://ads.atmosphere.copernicus.eu/api")
 
     client = cdsapi.Client(url=api_url, key=api_key)
 
