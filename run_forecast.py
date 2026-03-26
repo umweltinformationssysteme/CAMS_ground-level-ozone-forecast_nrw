@@ -24,7 +24,6 @@ OUTPUT_NC = "ozone_forecast.nc"
 NRW_BBOX = [52.6, 5.8, 50.3, 9.5]
 
 # Forecast lead hours to request (0–96 h, 1-hourly)
-# We request all hours so we can find the daily peak
 ALL_LEAD_HOURS = [str(h) for h in range(0, 97)]
 
 
@@ -70,7 +69,52 @@ def download_cams_forecast(output_path: str, today: str) -> None:
 
 
 # ---------------------------------------------------------------------------
-# 3. Extract per-municipality daily peak values
+# 3. Decode the time axis from a CAMS NetCDF file
+# ---------------------------------------------------------------------------
+def decode_time_axis(ds: xr.Dataset) -> pd.DatetimeIndex:
+    """
+    Robustly decode the 'time' variable from a CAMS NetCDF file.
+
+    CAMS files use CF conventions: time is stored as numeric offsets
+    (e.g. hours since a reference date) described by a 'units' attribute
+    like 'hours since 2026-03-26 00:00:00'.
+
+    xarray's decode_timedelta=False prevents auto-decoding into timedelta64,
+    so we decode manually here using cftime/pandas to get a proper
+    DatetimeIndex in UTC.
+    """
+    time_var = ds["time"]
+    raw_values = time_var.values  # numeric offsets, e.g. float64 hours
+
+    units = time_var.attrs.get("units", "")
+    # units format: "hours since YYYY-MM-DD HH:MM:SS"
+    # or "seconds since ..." etc.
+    if "since" in units:
+        parts = units.split("since", 1)
+        unit_str = parts[0].strip().lower()   # e.g. "hours"
+        origin_str = parts[1].strip()          # e.g. "2026-03-26 00:00:00"
+
+        origin = pd.Timestamp(origin_str, tz="UTC")
+
+        if unit_str in ("hour", "hours"):
+            deltas = pd.to_timedelta(raw_values, unit="h")
+        elif unit_str in ("second", "seconds"):
+            deltas = pd.to_timedelta(raw_values, unit="s")
+        elif unit_str in ("minute", "minutes"):
+            deltas = pd.to_timedelta(raw_values, unit="m")
+        elif unit_str in ("day", "days"):
+            deltas = pd.to_timedelta(raw_values, unit="D")
+        else:
+            raise ValueError(f"Unsupported time unit: '{unit_str}' in '{units}'")
+
+        return pd.DatetimeIndex([origin + d for d in deltas])
+
+    # Fallback: try direct conversion (works if already datetime64)
+    return pd.DatetimeIndex(pd.to_datetime(raw_values, utc=True))
+
+
+# ---------------------------------------------------------------------------
+# 4. Extract per-municipality daily peak values
 # ---------------------------------------------------------------------------
 def extract_daily_peaks(
     nc_path: str, municipalities: pd.DataFrame, today: str
@@ -81,7 +125,12 @@ def extract_daily_peaks(
 
     Returns a dict keyed by municipality name.
     """
+    # decode_timedelta=False avoids a FutureWarning; we decode time manually
     ds = xr.open_dataset(nc_path, decode_timedelta=False)
+
+    # Print available variables for debugging
+    print(f"NetCDF variables: {list(ds.data_vars)}")
+    print(f"NetCDF dimensions: {dict(ds.dims)}")
 
     # Build DataArrays for vectorised nearest-neighbour selection
     lats = xr.DataArray(municipalities["lat"].values, dims="municipality")
@@ -94,8 +143,9 @@ def extract_daily_peaks(
         .values  # numpy array (time, municipality)
     )
 
-    # Timestamps from the NetCDF file
-    times = pd.to_datetime(ds["time"].values)
+    # Decode time axis robustly from CF units attribute
+    times = decode_time_axis(ds)
+    print(f"Time axis: {len(times)} steps, first={times[0]}, last={times[-1]}")
 
     today_dt = pd.Timestamp(today, tz="UTC")
     day_offsets = [0, 1, 2]
@@ -136,7 +186,7 @@ def extract_daily_peaks(
 
 
 # ---------------------------------------------------------------------------
-# 4. Build and save output JSON
+# 5. Build and save output JSON
 # ---------------------------------------------------------------------------
 def save_output(results: dict, municipalities: pd.DataFrame, output_path: str, today: str) -> None:
     """
