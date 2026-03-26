@@ -1,0 +1,26 @@
+name: Manual GeoJSON to CSV Converter
+on: 
+  workflow_dispatch: # Das erlaubt den Start per Mausklick
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Run Converter
+        run: python convert.py
+      
+      - name: Commit CSV
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gemeinden_nrw.csv
+          git commit -m "Add extracted municipalities CSV" || exit 0
+          git push
