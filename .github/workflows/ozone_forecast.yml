@@ -29,18 +29,21 @@ jobs:
 
       # -----------------------------------------------------------------------
       # 3. Install dependencies
-      #    Pin cdsapi >= 0.7.4 which supports the new ADS API (post-2024)
+      #    Explicitly upgrade cdsapi to >= 0.7.7 first to ensure the new
+      #    ADS API endpoint is used (the old client hardcodes /v2 URLs).
       # -----------------------------------------------------------------------
       - name: Install Python dependencies
         run: |
           pip install --upgrade pip
+          pip install --upgrade "cdsapi>=0.7.7"
           pip install -r requirements.txt
 
       # -----------------------------------------------------------------------
-      # 4. Write the CDS API credentials file
-      #    New ADS API (post-2024):
-      #      - URL must be https://ads.atmosphere.copernicus.eu/api  (no /v2 suffix)
-      #      - Key must be the raw API key WITHOUT the deprecated <UID>: prefix
+      # 4. Write the CDS API credentials file (~/.cdsapirc)
+      #    New ADS API (post-2024 migration):
+      #      url  → https://ads.atmosphere.copernicus.eu/api  (NO /v2 suffix)
+      #      key  → Personal Access Token (NOT the old <UID>:<token> format)
+      #    Both values come from GitHub repository secrets.
       # -----------------------------------------------------------------------
       - name: Configure CDS API credentials
         run: |
