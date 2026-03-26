@@ -10,7 +10,7 @@ jobs:
   run-forecast:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # Required to push the output JSON back to the repository
+      contents: write   # Required to push output files back to the repository
 
     steps:
       # -----------------------------------------------------------------------
@@ -29,8 +29,7 @@ jobs:
 
       # -----------------------------------------------------------------------
       # 3. Install dependencies
-      #    Explicitly upgrade cdsapi to >= 0.7.7 first to ensure the new
-      #    ADS API endpoint is used (the old client hardcodes /v2 URLs).
+      #    Explicitly upgrade cdsapi to >= 0.7.7 (new ADS API, post-2024)
       # -----------------------------------------------------------------------
       - name: Install Python dependencies
         run: |
@@ -43,7 +42,6 @@ jobs:
       #    New ADS API (post-2024 migration):
       #      url  → https://ads.atmosphere.copernicus.eu/api  (NO /v2 suffix)
       #      key  → Personal Access Token (NOT the old <UID>:<token> format)
-      #    Both values come from GitHub repository secrets.
       # -----------------------------------------------------------------------
       - name: Configure CDS API credentials
         run: |
@@ -54,19 +52,24 @@ jobs:
           EOF
 
       # -----------------------------------------------------------------------
-      # 5. Run the forecast script
+      # 5. Run the forecast script → writes output/ozone_forecast_nrw.json
       # -----------------------------------------------------------------------
       - name: Run ozone forecast
         run: python run_forecast.py
 
       # -----------------------------------------------------------------------
-      # 6. Commit and push the updated output JSON
+      # 6. Update README Top-10 table from the fresh JSON
+      # -----------------------------------------------------------------------
+      - name: Update README Top-10 table
+        run: python update_readme.py
+
+      # -----------------------------------------------------------------------
+      # 7. Commit and push updated JSON + README
       # -----------------------------------------------------------------------
       - name: Commit and push output
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ozone_forecast_nrw.json
-          # Only commit if there are actual changes
+          git add output/ozone_forecast_nrw.json README.md
           git diff --cached --quiet || git commit -m "chore: update ozone forecast $(date -u +'%Y-%m-%d')"
           git push
