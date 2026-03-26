@@ -81,7 +81,7 @@ def extract_daily_peaks(
 
     Returns a dict keyed by municipality name.
     """
-    ds = xr.open_dataset(nc_path)
+    ds = xr.open_dataset(nc_path, decode_timedelta=False)
 
     # Build DataArrays for vectorised nearest-neighbour selection
     lats = xr.DataArray(municipalities["lat"].values, dims="municipality")
@@ -89,7 +89,7 @@ def extract_daily_peaks(
 
     # shape: (time, municipality)
     ozone_all = (
-        ds["go3_conc"]
+        ds["o3_conc"]
         .sel(latitude=lats, longitude=lons, method="nearest")
         .values  # numpy array (time, municipality)
     )
