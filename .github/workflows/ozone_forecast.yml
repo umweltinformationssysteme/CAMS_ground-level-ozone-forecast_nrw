@@ -1,0 +1,65 @@
+name: NRW Ozone Forecast
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC — CAMS 00:00 UTC run is usually available by then
+    - cron: "0 6 * * *"
+  workflow_dispatch:  # Allow manual trigger from the GitHub Actions UI
+
+jobs:
+  run-forecast:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Required to push the output JSON back to the repository
+
+    steps:
+      # -----------------------------------------------------------------------
+      # 1. Check out the repository
+      # -----------------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -----------------------------------------------------------------------
+      # 2. Set up Python
+      # -----------------------------------------------------------------------
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -----------------------------------------------------------------------
+      # 3. Install dependencies
+      # -----------------------------------------------------------------------
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install cdsapi xarray netCDF4 scipy pandas numpy
+
+      # -----------------------------------------------------------------------
+      # 4. Write the CDS API credentials file
+      #    cdsapi looks for ~/.cdsapirc by default
+      # -----------------------------------------------------------------------
+      - name: Configure CDS API credentials
+        run: |
+          cat > ~/.cdsapirc << EOF
+          url: ${{ secrets.CDS_API_URL }}
+          key: ${{ secrets.CDS_API_KEY }}
+          EOF
+
+      # -----------------------------------------------------------------------
+      # 5. Run the forecast script
+      # -----------------------------------------------------------------------
+      - name: Run ozone forecast
+        run: python run_forecast.py
+
+      # -----------------------------------------------------------------------
+      # 6. Commit and push the updated output JSON
+      # -----------------------------------------------------------------------
+      - name: Commit and push output
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ozone_forecast_nrw.json
+          # Only commit if there are actual changes
+          git diff --cached --quiet || git commit -m "chore: update ozone forecast $(date -u +'%Y-%m-%d')"
+          git push
