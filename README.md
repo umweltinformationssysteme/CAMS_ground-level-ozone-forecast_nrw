@@ -164,6 +164,22 @@ nrw-ozone-forecast/
 
 ---
 
+## Licenses and Data Sources
+
+This project is based on open data and requires the following attribution for any further use:
+
+### 1. Atmospheric Data (Ozone)
+The ozone forecast values are provided by the **Copernicus Atmosphere Monitoring Service (CAMS)**.
+- **Data Source:** [CAMS European Air Quality Forecasts](https://ads.atmosphere.copernicus.eu/datasets/cams-europe-air-quality-forecasts)
+- **License:** [Copernicus Data License (CC-BY 4.0)](https://doc.ecmwf.int/display/CAS/Copernicus+Data+License)
+- **Attribution:** *Generated using Copernicus Atmosphere Monitoring Service information 2026.*
+
+### 2. Administrative Boundaries (Municipalities)
+The geographical centroids and names of the municipalities are based on data from the Federal Agency for Cartography and Geodesy (BKG).
+- **Data Source:** © GeoBasis-DE / BKG 2013 (data modified).
+
+---
+
 ## Notes
 
 - The CAMS forecast is updated once per day (00:00 UTC model run).
