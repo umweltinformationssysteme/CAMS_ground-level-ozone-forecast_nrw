@@ -110,7 +110,8 @@ def build_top10_block(json_path: str) -> str:
         else:
             label = f"{prev}–{int(upper)}"
         lines.append(f"| {square} | {label} |")
-        prev = int(upper)
+        if upper != float("inf"):
+            prev = int(upper)
 
     lines.append("")
     lines.append(MARKER_END)
