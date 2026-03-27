@@ -7,91 +7,40 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-03-26)
+## 🏆 Top 10 — Highest Ozone Values Today (2026-03-27)
 
-*Forecast base: 2026-03-26 00:00 UTC · Generated: 2026-03-26T11:37:38Z*
+*Forecast base: 2026-03-27 00:00 UTC · Generated: 2026-03-27T06:58:56Z*
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Municipality</th>
-      <th align="left">Peak time (UTC)</th>
-      <th align="right">O₃ (µg/m³)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr bgcolor="#FAE88E">
-      <td><b>Preußisch Oldendorf</b></td>
-      <td>2026-03-26 13:00 UTC</td>
-      <td align="right"><b>100.3</b></td>
-    </tr>
-    <tr bgcolor="#FAE88E">
-      <td><b>Stemwede</b></td>
-      <td>2026-03-26 13:00 UTC</td>
-      <td align="right"><b>100.3</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Rahden</b></td>
-      <td>2026-03-26 13:00 UTC</td>
-      <td align="right"><b>100.0</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Westerkappeln</b></td>
-      <td>2026-03-26 15:00 UTC</td>
-      <td align="right"><b>99.8</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Mettingen</b></td>
-      <td>2026-03-26 15:00 UTC</td>
-      <td align="right"><b>99.6</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Recke</b></td>
-      <td>2026-03-26 15:00 UTC</td>
-      <td align="right"><b>99.6</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Rödinghausen</b></td>
-      <td>2026-03-26 13:00 UTC</td>
-      <td align="right"><b>99.5</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Hüllhorst</b></td>
-      <td>2026-03-26 13:00 UTC</td>
-      <td align="right"><b>99.4</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Hopsten</b></td>
-      <td>2026-03-26 15:00 UTC</td>
-      <td align="right"><b>99.3</b></td>
-    </tr>
-    <tr bgcolor="#EBEEB3">
-      <td><b>Hörstel</b></td>
-      <td>2026-03-26 12:00 UTC</td>
-      <td align="right"><b>99.3</b></td>
-    </tr>
-  </tbody>
-</table>
+| | Municipality | Peak time (UTC) | O₃ (µg/m³) |
+|:---:|:---|:---|---:|
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Bad Münstereifel** | 2026-03-27 14:00 UTC | **102.2** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Swisttal** | 2026-03-27 14:00 UTC | **101.9** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Euskirchen** | 2026-03-27 14:00 UTC | **101.1** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Rheinbach** | 2026-03-27 14:00 UTC | **100.9** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Meckenheim** | 2026-03-27 14:00 UTC | **100.8** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Blankenheim** | 2026-03-27 15:00 UTC | **100.2** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Nettersheim** | 2026-03-27 15:00 UTC | **100.2** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Zülpich** | 2026-03-27 14:00 UTC | **100.1** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0VCRUVCMyIvPjwvc3ZnPg==" width="16" height="16" alt="#EBEEB3"> | **Königswinter** | 2026-03-27 15:00 UTC | **99.9** |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0VCRUVCMyIvPjwvc3ZnPg==" width="16" height="16" alt="#EBEEB3"> | **Wachtberg** | 2026-03-27 15:00 UTC | **99.9** |
 
-### Colour scale
+### Colour scale (µg/m³)
 
-<table>
-  <tr>
-    <td bgcolor="#C6E9F3" align="center"><small>≤20</small></td>
-    <td bgcolor="#B3DFEB" align="center"><small>≤40</small></td>
-    <td bgcolor="#A0D5E3" align="center"><small>≤60</small></td>
-    <td bgcolor="#BFDFCD" align="center"><small>≤80</small></td>
-    <td bgcolor="#EBEEB3" align="center"><small>≤100</small></td>
-    <td bgcolor="#FAE88E" align="center"><small>≤120</small></td>
-    <td bgcolor="#F5D362" align="center"><small>≤140</small></td>
-    <td bgcolor="#EDB43C" align="center"><small>≤160</small></td>
-    <td bgcolor="#E18620" align="center"><small>≤180</small></td>
-    <td bgcolor="#D05C0B" align="center"><small>≤200</small></td>
-    <td bgcolor="#AA4110" align="center"><small>≤240</small></td>
-    <td bgcolor="#852615" align="center"><small>≤500</small></td>
-    <td bgcolor="#8526BA" align="center"><small>>500</small></td>
-  </tr>
-</table>
+| Colour | Range |
+|:---:|:---|
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0M2RTlGMyIvPjwvc3ZnPg==" width="14" height="14" alt="#C6E9F3"> | 0–20 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0IzREZFQiIvPjwvc3ZnPg==" width="14" height="14" alt="#B3DFEB"> | 20–40 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0EwRDVFMyIvPjwvc3ZnPg==" width="14" height="14" alt="#A0D5E3"> | 40–60 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0JGREZDRCIvPjwvc3ZnPg==" width="14" height="14" alt="#BFDFCD"> | 60–80 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0VCRUVCMyIvPjwvc3ZnPg==" width="14" height="14" alt="#EBEEB3"> | 80–100 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="14" height="14" alt="#FAE88E"> | 100–120 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0Y1RDM2MiIvPjwvc3ZnPg==" width="14" height="14" alt="#F5D362"> | 120–140 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0VEQjQzQyIvPjwvc3ZnPg==" width="14" height="14" alt="#EDB43C"> | 140–160 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0UxODYyMCIvPjwvc3ZnPg==" width="14" height="14" alt="#E18620"> | 160–180 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0QwNUMwQiIvPjwvc3ZnPg==" width="14" height="14" alt="#D05C0B"> | 180–200 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0FBNDExMCIvPjwvc3ZnPg==" width="14" height="14" alt="#AA4110"> | 200–240 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzg1MjYxNSIvPjwvc3ZnPg==" width="14" height="14" alt="#852615"> | 240–500 |
+| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzg1MjZCQSIvPjwvc3ZnPg==" width="14" height="14" alt="#8526BA"> | > 500 |
 
 <!-- TOP10_END -->
 
