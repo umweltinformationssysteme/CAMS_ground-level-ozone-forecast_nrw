@@ -9,6 +9,8 @@ on:
 jobs:
   run-forecast:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Opt into Node.js 24 ahead of the June 2026 deadline
     permissions:
       contents: write   # Required to push output files back to the repository
 
