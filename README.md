@@ -9,38 +9,38 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 ## Top 10 — Highest Ozone Values Today (2026-03-27)
 
-*Forecast base: 2026-03-27 00:00 UTC · Generated: 2026-03-27T07:05:32Z*
+*Forecast base: 2026-03-27 00:00 UTC · Generated: 2026-03-27T07:11:05Z*
 
-| | Municipality | Peak time (UTC) | O₃ (µg/m³) |
+|   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Bad Münstereifel** | 2026-03-27 14:00 UTC | **102.2** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Swisttal** | 2026-03-27 14:00 UTC | **101.9** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Euskirchen** | 2026-03-27 14:00 UTC | **101.1** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Rheinbach** | 2026-03-27 14:00 UTC | **100.9** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Meckenheim** | 2026-03-27 14:00 UTC | **100.8** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Blankenheim** | 2026-03-27 15:00 UTC | **100.2** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Nettersheim** | 2026-03-27 15:00 UTC | **100.2** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="16" height="16" alt="#FAE88E"> | **Zülpich** | 2026-03-27 14:00 UTC | **100.1** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0VCRUVCMyIvPjwvc3ZnPg==" width="16" height="16" alt="#EBEEB3"> | **Königswinter** | 2026-03-27 15:00 UTC | **99.9** |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0VCRUVCMyIvPjwvc3ZnPg==" width="16" height="16" alt="#EBEEB3"> | **Wachtberg** | 2026-03-27 15:00 UTC | **99.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Münstereifel** | 2026-03-27 14:00 UTC | **102.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-03-27 14:00 UTC | **101.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-03-27 14:00 UTC | **101.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-03-27 14:00 UTC | **100.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-03-27 14:00 UTC | **100.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Blankenheim** | 2026-03-27 15:00 UTC | **100.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nettersheim** | 2026-03-27 15:00 UTC | **100.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Zülpich** | 2026-03-27 14:00 UTC | **100.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Königswinter** | 2026-03-27 15:00 UTC | **99.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wachtberg** | 2026-03-27 15:00 UTC | **99.9** |
 
 ### Colour scale (µg/m³)
 
 | Colour | Range |
 |:---:|:---|
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0M2RTlGMyIvPjwvc3ZnPg==" width="14" height="14" alt="#C6E9F3"> | 0–20 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0IzREZFQiIvPjwvc3ZnPg==" width="14" height="14" alt="#B3DFEB"> | 20–40 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0EwRDVFMyIvPjwvc3ZnPg==" width="14" height="14" alt="#A0D5E3"> | 40–60 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0JGREZDRCIvPjwvc3ZnPg==" width="14" height="14" alt="#BFDFCD"> | 60–80 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0VCRUVCMyIvPjwvc3ZnPg==" width="14" height="14" alt="#EBEEB3"> | 80–100 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0ZBRTg4RSIvPjwvc3ZnPg==" width="14" height="14" alt="#FAE88E"> | 100–120 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0Y1RDM2MiIvPjwvc3ZnPg==" width="14" height="14" alt="#F5D362"> | 120–140 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0VEQjQzQyIvPjwvc3ZnPg==" width="14" height="14" alt="#EDB43C"> | 140–160 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0UxODYyMCIvPjwvc3ZnPg==" width="14" height="14" alt="#E18620"> | 160–180 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0QwNUMwQiIvPjwvc3ZnPg==" width="14" height="14" alt="#D05C0B"> | 180–200 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iI0FBNDExMCIvPjwvc3ZnPg==" width="14" height="14" alt="#AA4110"> | 200–240 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzg1MjYxNSIvPjwvc3ZnPg==" width="14" height="14" alt="#852615"> | 240–500 |
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMiIgZmlsbD0iIzg1MjZCQSIvPjwvc3ZnPg==" width="14" height="14" alt="#8526BA"> | > 500 |
+| ![](https://placehold.co/14x14/C6E9F3/C6E9F3.png) | 0–20 |
+| ![](https://placehold.co/14x14/B3DFEB/B3DFEB.png) | 20–40 |
+| ![](https://placehold.co/14x14/A0D5E3/A0D5E3.png) | 40–60 |
+| ![](https://placehold.co/14x14/BFDFCD/BFDFCD.png) | 60–80 |
+| ![](https://placehold.co/14x14/EBEEB3/EBEEB3.png) | 80–100 |
+| ![](https://placehold.co/14x14/FAE88E/FAE88E.png) | 100–120 |
+| ![](https://placehold.co/14x14/F5D362/F5D362.png) | 120–140 |
+| ![](https://placehold.co/14x14/EDB43C/EDB43C.png) | 140–160 |
+| ![](https://placehold.co/14x14/E18620/E18620.png) | 160–180 |
+| ![](https://placehold.co/14x14/D05C0B/D05C0B.png) | 180–200 |
+| ![](https://placehold.co/14x14/AA4110/AA4110.png) | 200–240 |
+| ![](https://placehold.co/14x14/852615/852615.png) | 240–500 |
+| ![](https://placehold.co/14x14/8526BA/8526BA.png) | > 500 |
 
 <!-- TOP10_END -->
 
