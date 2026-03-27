@@ -79,7 +79,7 @@ def build_top10_block(json_path: str) -> str:
     top10 = rows[:10]
 
     lines = [MARKER_START, ""]
-    lines.append(f"## 🏆 Top 10 — Highest Ozone Values Today ({base_date})")
+    lines.append(f"## Top 10 — Highest Ozone Values Today ({base_date})")
     lines.append("")
     lines.append(f"*Forecast base: {base_date} 00:00 UTC · Generated: {generated}*")
     lines.append("")
