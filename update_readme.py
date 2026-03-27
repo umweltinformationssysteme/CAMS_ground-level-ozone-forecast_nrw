@@ -3,14 +3,12 @@ update_readme.py
 Reads the current ozone forecast JSON and rewrites the Top-10 table
 in README.md between two sentinel comment markers.
 
-GitHub strips bgcolor/style from HTML tables, so colours are rendered
-as inline SVG colour squares embedded via data URIs — the only reliable
-way to show colour in a GitHub README table.
+Colour squares use placehold.co image URLs — simple, reliable, no encoding needed.
+Example: https://placehold.co/16x16/FAE88E/FAE88E.png
 """
 
 import json
 import re
-import base64
 from datetime import datetime
 
 INPUT_JSON = "output/ozone_forecast_nrw.json"
@@ -19,40 +17,34 @@ README_PATH = "README.md"
 MARKER_START = "<!-- TOP10_START -->"
 MARKER_END   = "<!-- TOP10_END -->"
 
-# Ozone colour scale: (upper bound µg/m³, hex, dark-text?)
+# Ozone colour scale: (upper bound µg/m³, hex)
 COLOUR_SCALE = [
-    (20,          "C6E9F3", True),
-    (40,          "B3DFEB", True),
-    (60,          "A0D5E3", True),
-    (80,          "BFDFCD", True),
-    (100,         "EBEEB3", True),
-    (120,         "FAE88E", True),
-    (140,         "F5D362", True),
-    (160,         "EDB43C", True),
-    (180,         "E18620", False),
-    (200,         "D05C0B", False),
-    (240,         "AA4110", False),
-    (500,         "852615", False),
-    (float("inf"),"8526BA", False),
+    (20,           "C6E9F3"),
+    (40,           "B3DFEB"),
+    (60,           "A0D5E3"),
+    (80,           "BFDFCD"),
+    (100,          "EBEEB3"),
+    (120,          "FAE88E"),
+    (140,          "F5D362"),
+    (160,          "EDB43C"),
+    (180,          "E18620"),
+    (200,          "D05C0B"),
+    (240,          "AA4110"),
+    (500,          "852615"),
+    (float("inf"), "8526BA"),
 ]
 
 
-def get_colour(value: float):
-    for upper, colour, dark in COLOUR_SCALE:
+def get_colour(value: float) -> str:
+    for upper, colour in COLOUR_SCALE:
         if value <= upper:
-            return colour, dark
-    return COLOUR_SCALE[-1][1], COLOUR_SCALE[-1][2]
+            return colour
+    return COLOUR_SCALE[-1][1]
 
 
-def colour_square_svg(hex_colour: str, size: int = 14) -> str:
-    """Return an inline SVG image tag showing a filled colour square."""
-    svg = (
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{size}" height="{size}">'
-        f'<rect width="{size}" height="{size}" rx="2" fill="#{hex_colour}"/>'
-        f'</svg>'
-    )
-    b64 = base64.b64encode(svg.encode()).decode()
-    return f'<img src="data:image/svg+xml;base64,{b64}" width="{size}" height="{size}" alt="#{hex_colour}">'
+def colour_square(hex_colour: str, size: int = 16) -> str:
+    """Return a Markdown image tag using placehold.co for a solid colour square."""
+    return f"![](https://placehold.co/{size}x{size}/{hex_colour}/{hex_colour}.png)"
 
 
 def format_datetime(iso: str) -> str:
@@ -67,6 +59,7 @@ def build_top10_block(json_path: str) -> str:
     generated = data.get("generated_at_utc", "")
     base_date  = data.get("forecast_base_date", "")
 
+    # Collect today's peak values
     rows = []
     for m in data["municipalities"]:
         today = m["forecast"].get("today", {})
@@ -84,31 +77,28 @@ def build_top10_block(json_path: str) -> str:
     lines.append(f"*Forecast base: {base_date} 00:00 UTC · Generated: {generated}*")
     lines.append("")
 
-    # ── Top-10 table ──────────────────────────────────────────────────────────
-    lines.append("| | Municipality | Peak time (UTC) | O₃ (µg/m³) |")
+    # Top-10 table
+    lines.append("|   | Municipality | Peak time (UTC) | O₃ (µg/m³) |")
     lines.append("|:---:|:---|:---|---:|")
 
     for name, val, time_iso in top10:
-        colour, _ = get_colour(val)
-        square     = colour_square_svg(colour, size=16)
-        time_fmt   = format_datetime(time_iso)
+        colour   = get_colour(val)
+        square   = colour_square(colour)
+        time_fmt = format_datetime(time_iso)
         lines.append(f"| {square} | **{name}** | {time_fmt} | **{val:.1f}** |")
 
     lines.append("")
 
-    # ── Colour legend ─────────────────────────────────────────────────────────
+    # Colour legend
     lines.append("### Colour scale (µg/m³)")
     lines.append("")
     lines.append("| Colour | Range |")
     lines.append("|:---:|:---|")
 
     prev = 0
-    for upper, colour, _ in COLOUR_SCALE:
-        square = colour_square_svg(colour, size=14)
-        if upper == float("inf"):
-            label = f"> 500"
-        else:
-            label = f"{prev}–{int(upper)}"
+    for upper, colour in COLOUR_SCALE:
+        square = colour_square(colour, size=14)
+        label  = f"> 500" if upper == float("inf") else f"{prev}–{int(upper)}"
         lines.append(f"| {square} | {label} |")
         if upper != float("inf"):
             prev = int(upper)
