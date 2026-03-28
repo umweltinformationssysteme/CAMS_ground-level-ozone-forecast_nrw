@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-03-27)
+## Top 10 — Highest Ozone Values Today (2026-03-28)
 
-*Forecast base: 2026-03-27 00:00 UTC · Generated: 2026-03-27T08:10:40Z*
+*Forecast base: 2026-03-28 00:00 UTC · Generated: 2026-03-28T07:58:36Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Münstereifel** | 2026-03-27 14:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-03-27 14:00 UTC | **101.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-03-27 14:00 UTC | **101.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-03-27 14:00 UTC | **100.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-03-27 14:00 UTC | **100.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Blankenheim** | 2026-03-27 15:00 UTC | **100.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nettersheim** | 2026-03-27 15:00 UTC | **100.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Zülpich** | 2026-03-27 14:00 UTC | **100.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Königswinter** | 2026-03-27 15:00 UTC | **99.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wachtberg** | 2026-03-27 15:00 UTC | **99.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Stadtlohn** | 2026-03-28 14:00 UTC | **99.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borken** | 2026-03-28 14:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Reken** | 2026-03-28 15:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Südlohn** | 2026-03-28 14:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-03-28 14:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Haltern am See** | 2026-03-28 15:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Niederkrüchten** | 2026-03-28 14:00 UTC | **98.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Jülich** | 2026-03-28 15:00 UTC | **98.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Linnich** | 2026-03-28 15:00 UTC | **98.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wegberg** | 2026-03-28 14:00 UTC | **98.3** |
 
 ### Colour scale (µg/m³)
 
