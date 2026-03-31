@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-03-30)
+## Top 10 — Highest Ozone Values Today (2026-03-31)
 
-*Forecast base: 2026-03-30 00:00 UTC · Generated: 2026-03-30T10:45:07Z*
+*Forecast base: 2026-03-31 00:00 UTC · Generated: 2026-03-31T09:46:44Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marsberg** | 2026-03-30 14:00 UTC | **102.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hamm** | 2026-03-30 12:00 UTC | **102.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Welver** | 2026-03-30 12:00 UTC | **102.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Büren** | 2026-03-30 13:00 UTC | **102.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Wünnenberg** | 2026-03-30 13:00 UTC | **102.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warburg** | 2026-03-30 13:00 UTC | **102.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Anröchte** | 2026-03-30 13:00 UTC | **102.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warendorf** | 2026-03-30 13:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Sassendorf** | 2026-03-30 13:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Soest** | 2026-03-30 13:00 UTC | **102.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emmerich am Rhein** | 2026-03-31 14:00 UTC | **98.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Issum** | 2026-03-31 15:00 UTC | **97.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neukirchen-Vluyn** | 2026-03-31 15:00 UTC | **97.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rees** | 2026-03-31 14:00 UTC | **97.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Xanten** | 2026-03-31 15:00 UTC | **96.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Isselburg** | 2026-03-31 14:00 UTC | **96.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheurdt** | 2026-03-31 15:00 UTC | **96.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Medebach** | 2026-03-31 15:00 UTC | **96.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Saerbeck** | 2026-03-31 15:00 UTC | **95.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Moers** | 2026-03-31 15:00 UTC | **95.8** |
 
 ### Colour scale (µg/m³)
 
