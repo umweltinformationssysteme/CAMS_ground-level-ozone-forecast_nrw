@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-03-31)
+## Top 10 — Highest Ozone Values Today (2026-04-01)
 
-*Forecast base: 2026-03-31 00:00 UTC · Generated: 2026-03-31T09:46:44Z*
+*Forecast base: 2026-04-01 00:00 UTC · Generated: 2026-04-01T09:55:06Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emmerich am Rhein** | 2026-03-31 14:00 UTC | **98.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Issum** | 2026-03-31 15:00 UTC | **97.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neukirchen-Vluyn** | 2026-03-31 15:00 UTC | **97.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rees** | 2026-03-31 14:00 UTC | **97.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Xanten** | 2026-03-31 15:00 UTC | **96.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Isselburg** | 2026-03-31 14:00 UTC | **96.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheurdt** | 2026-03-31 15:00 UTC | **96.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Medebach** | 2026-03-31 15:00 UTC | **96.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Saerbeck** | 2026-03-31 15:00 UTC | **95.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Moers** | 2026-03-31 15:00 UTC | **95.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Remscheid** | 2026-04-01 15:00 UTC | **100.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Neuenrade** | 2026-04-01 16:00 UTC | **100.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Werdohl** | 2026-04-01 16:00 UTC | **100.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Möhnesee** | 2026-04-01 16:00 UTC | **100.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Arnsberg** | 2026-04-01 16:00 UTC | **100.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sundern (Sauerland)** | 2026-04-01 16:00 UTC | **100.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Solingen** | 2026-04-01 15:00 UTC | **100.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Haan** | 2026-04-01 15:00 UTC | **100.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Leichlingen (Rhld.)** | 2026-04-01 15:00 UTC | **100.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Plettenberg** | 2026-04-01 16:00 UTC | **100.1** |
 
 ### Colour scale (µg/m³)
 
