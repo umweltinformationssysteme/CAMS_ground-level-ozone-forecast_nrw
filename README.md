@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-02)
+## Top 10 — Highest Ozone Values Today (2026-04-03)
 
-*Forecast base: 2026-04-02 00:00 UTC · Generated: 2026-04-02T09:42:25Z*
+*Forecast base: 2026-04-03 00:00 UTC · Generated: 2026-04-03T08:36:55Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Borgentreich** | 2026-04-02 12:00 UTC | **106.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Beverungen** | 2026-04-02 11:00 UTC | **106.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warburg** | 2026-04-02 11:00 UTC | **105.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Medebach** | 2026-04-02 12:00 UTC | **104.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Höxter** | 2026-04-02 12:00 UTC | **103.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hallenberg** | 2026-04-02 12:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marsberg** | 2026-04-02 11:00 UTC | **101.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marienmünster** | 2026-04-02 12:00 UTC | **100.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Brilon** | 2026-04-02 09:00 UTC | **100.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nieheim** | 2026-04-02 12:00 UTC | **100.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Driburg** | 2026-04-03 13:00 UTC | **103.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ruppichteroth** | 2026-04-03 14:00 UTC | **103.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldbröl** | 2026-04-03 14:00 UTC | **103.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Windeck** | 2026-04-03 14:00 UTC | **103.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Büren** | 2026-04-03 11:00 UTC | **103.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marsberg** | 2026-04-03 11:00 UTC | **102.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Wünnenberg** | 2026-04-03 11:00 UTC | **102.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warstein** | 2026-04-03 10:00 UTC | **102.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Willebadessen** | 2026-04-03 13:00 UTC | **102.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Olsberg** | 2026-04-03 10:00 UTC | **102.6** |
 
 ### Colour scale (µg/m³)
 
