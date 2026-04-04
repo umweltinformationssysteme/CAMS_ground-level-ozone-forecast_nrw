@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-03)
+## Top 10 — Highest Ozone Values Today (2026-04-04)
 
-*Forecast base: 2026-04-03 00:00 UTC · Generated: 2026-04-03T08:36:55Z*
+*Forecast base: 2026-04-04 00:00 UTC · Generated: 2026-04-04T08:01:19Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Driburg** | 2026-04-03 13:00 UTC | **103.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ruppichteroth** | 2026-04-03 14:00 UTC | **103.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldbröl** | 2026-04-03 14:00 UTC | **103.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Windeck** | 2026-04-03 14:00 UTC | **103.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Büren** | 2026-04-03 11:00 UTC | **103.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marsberg** | 2026-04-03 11:00 UTC | **102.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Wünnenberg** | 2026-04-03 11:00 UTC | **102.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warstein** | 2026-04-03 10:00 UTC | **102.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Willebadessen** | 2026-04-03 13:00 UTC | **102.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Olsberg** | 2026-04-03 10:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-04-04 13:00 UTC | **95.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-04-04 13:00 UTC | **95.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-04-04 13:00 UTC | **95.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rahden** | 2026-04-04 14:00 UTC | **95.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalletal** | 2026-04-04 13:00 UTC | **95.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hille** | 2026-04-04 13:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Petershagen** | 2026-04-04 13:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hüllhorst** | 2026-04-04 13:00 UTC | **94.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vlotho** | 2026-04-04 13:00 UTC | **94.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Espelkamp** | 2026-04-04 14:00 UTC | **94.5** |
 
 ### Colour scale (µg/m³)
 
