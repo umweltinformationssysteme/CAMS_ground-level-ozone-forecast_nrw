@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-06)
+## Top 10 — Highest Ozone Values Today (2026-04-07)
 
-*Forecast base: 2026-04-06 00:00 UTC · Generated: 2026-04-06T07:43:59Z*
+*Forecast base: 2026-04-07 00:00 UTC · Generated: 2026-04-07T07:17:55Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Geldern** | 2026-04-06 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheurdt** | 2026-04-06 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Neukirchen-Vluyn** | 2026-04-06 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kerken** | 2026-04-06 16:00 UTC | **101.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wachtendonk** | 2026-04-06 16:00 UTC | **101.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Issum** | 2026-04-06 15:00 UTC | **101.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kevelaer** | 2026-04-06 15:00 UTC | **101.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Alpen** | 2026-04-06 15:00 UTC | **101.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kamp-Lintfort** | 2026-04-06 15:00 UTC | **101.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Driburg** | 2026-04-06 15:00 UTC | **100.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Königswinter** | 2026-04-07 15:00 UTC | **109.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wachtberg** | 2026-04-07 15:00 UTC | **109.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-04-07 15:00 UTC | **109.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-04-07 15:00 UTC | **108.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hennef (Sieg)** | 2026-04-07 15:00 UTC | **108.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Siegburg** | 2026-04-07 15:00 UTC | **108.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bonn** | 2026-04-07 15:00 UTC | **107.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Alfter** | 2026-04-07 15:00 UTC | **107.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bornheim** | 2026-04-07 15:00 UTC | **107.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-04-07 15:00 UTC | **107.7** |
 
 ### Colour scale (µg/m³)
 
