@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-08)
+## Top 10 — Highest Ozone Values Today (2026-04-09)
 
-*Forecast base: 2026-04-08 00:00 UTC · Generated: 2026-04-08T07:20:44Z*
+*Forecast base: 2026-04-09 00:00 UTC · Generated: 2026-04-09T07:23:13Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Honnef** | 2026-04-08 15:00 UTC | **110.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bornheim** | 2026-04-08 15:00 UTC | **110.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-04-08 15:00 UTC | **110.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Königswinter** | 2026-04-08 15:00 UTC | **109.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wachtberg** | 2026-04-08 15:00 UTC | **109.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bergisch Gladbach** | 2026-04-08 15:00 UTC | **109.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-04-08 15:00 UTC | **108.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weilerswist** | 2026-04-08 15:00 UTC | **108.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Vettweiß** | 2026-04-08 15:00 UTC | **108.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-04-08 15:00 UTC | **107.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heinsberg** | 2026-04-09 14:00 UTC | **118.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Baesweiler** | 2026-04-09 14:00 UTC | **117.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Geilenkirchen** | 2026-04-09 14:00 UTC | **117.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Übach-Palenberg** | 2026-04-09 14:00 UTC | **117.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gangelt** | 2026-04-09 14:00 UTC | **116.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Alsdorf** | 2026-04-09 14:00 UTC | **115.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Würselen** | 2026-04-09 14:00 UTC | **115.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wassenberg** | 2026-04-09 15:00 UTC | **115.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herzogenrath** | 2026-04-09 14:00 UTC | **114.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selfkant** | 2026-04-09 14:00 UTC | **113.6** |
 
 ### Colour scale (µg/m³)
 
