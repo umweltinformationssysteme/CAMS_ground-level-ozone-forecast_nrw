@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-09)
+## Top 10 — Highest Ozone Values Today (2026-04-10)
 
-*Forecast base: 2026-04-09 00:00 UTC · Generated: 2026-04-09T07:23:13Z*
+*Forecast base: 2026-04-10 00:00 UTC · Generated: 2026-04-10T07:28:44Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heinsberg** | 2026-04-09 14:00 UTC | **118.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Baesweiler** | 2026-04-09 14:00 UTC | **117.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Geilenkirchen** | 2026-04-09 14:00 UTC | **117.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Übach-Palenberg** | 2026-04-09 14:00 UTC | **117.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gangelt** | 2026-04-09 14:00 UTC | **116.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Alsdorf** | 2026-04-09 14:00 UTC | **115.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Würselen** | 2026-04-09 14:00 UTC | **115.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wassenberg** | 2026-04-09 15:00 UTC | **115.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herzogenrath** | 2026-04-09 14:00 UTC | **114.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selfkant** | 2026-04-09 14:00 UTC | **113.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Laasphe** | 2026-04-10 15:00 UTC | **99.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erndtebrück** | 2026-04-10 14:00 UTC | **99.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Berleburg** | 2026-04-10 15:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nümbrecht** | 2026-04-10 16:00 UTC | **98.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wiehl** | 2026-04-10 16:00 UTC | **98.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ochtrup** | 2026-04-10 16:00 UTC | **98.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheine** | 2026-04-10 16:00 UTC | **98.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-04-10 16:00 UTC | **98.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emsdetten** | 2026-04-10 16:00 UTC | **97.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lindlar** | 2026-04-10 16:00 UTC | **97.7** |
 
 ### Colour scale (µg/m³)
 
