@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-11)
+## Top 10 — Highest Ozone Values Today (2026-04-12)
 
-*Forecast base: 2026-04-11 00:00 UTC · Generated: 2026-04-11T07:01:30Z*
+*Forecast base: 2026-04-12 00:00 UTC · Generated: 2026-04-12T07:14:58Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Castrop-Rauxel** | 2026-04-11 13:00 UTC | **108.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Münster** | 2026-04-11 14:00 UTC | **107.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herne** | 2026-04-11 13:00 UTC | **107.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Vreden** | 2026-04-11 15:00 UTC | **107.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herten** | 2026-04-11 13:00 UTC | **107.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marl** | 2026-04-11 13:00 UTC | **107.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Recklinghausen** | 2026-04-11 13:00 UTC | **107.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lüdinghausen** | 2026-04-11 14:00 UTC | **107.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selm** | 2026-04-11 14:00 UTC | **107.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Stadtlohn** | 2026-04-11 15:00 UTC | **107.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Medebach** | 2026-04-12 17:00 UTC | **109.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warburg** | 2026-04-12 15:00 UTC | **108.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Borgentreich** | 2026-04-12 15:00 UTC | **107.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Beverungen** | 2026-04-12 14:00 UTC | **105.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hallenberg** | 2026-04-12 17:00 UTC | **105.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Winterberg** | 2026-04-12 18:00 UTC | **104.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Höxter** | 2026-04-12 15:00 UTC | **103.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Marsberg** | 2026-04-12 15:00 UTC | **103.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wilnsdorf** | 2026-04-12 15:00 UTC | **102.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Borchen** | 2026-04-12 15:00 UTC | **102.3** |
 
 ### Colour scale (µg/m³)
 
