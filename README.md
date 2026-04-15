@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-14)
+## Top 10 — Highest Ozone Values Today (2026-04-15)
 
-*Forecast base: 2026-04-14 00:00 UTC · Generated: 2026-04-14T07:46:37Z*
+*Forecast base: 2026-04-15 00:00 UTC · Generated: 2026-04-15T07:46:40Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldbröl** | 2026-04-14 15:00 UTC | **114.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Windeck** | 2026-04-14 15:00 UTC | **114.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Morsbach** | 2026-04-14 15:00 UTC | **112.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nümbrecht** | 2026-04-14 15:00 UTC | **112.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wiehl** | 2026-04-14 15:00 UTC | **112.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Reichshof** | 2026-04-14 15:00 UTC | **112.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Engelskirchen** | 2026-04-14 15:00 UTC | **111.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Much** | 2026-04-14 15:00 UTC | **111.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ruppichteroth** | 2026-04-14 15:00 UTC | **111.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herscheid** | 2026-04-14 15:00 UTC | **110.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kranenburg** | 2026-04-15 14:00 UTC | **118.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bedburg-Hau** | 2026-04-15 15:00 UTC | **118.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kleve** | 2026-04-15 15:00 UTC | **118.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Goch** | 2026-04-15 14:00 UTC | **117.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weeze** | 2026-04-15 14:00 UTC | **117.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Steinfurt** | 2026-04-15 15:00 UTC | **117.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kalkar** | 2026-04-15 15:00 UTC | **117.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Münster** | 2026-04-15 14:00 UTC | **117.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Telgte** | 2026-04-15 14:00 UTC | **117.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheine** | 2026-04-15 15:00 UTC | **116.9** |
 
 ### Colour scale (µg/m³)
 
