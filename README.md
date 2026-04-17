@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-16)
+## Top 10 — Highest Ozone Values Today (2026-04-17)
 
-*Forecast base: 2026-04-16 00:00 UTC · Generated: 2026-04-16T07:47:58Z*
+*Forecast base: 2026-04-17 00:00 UTC · Generated: 2026-04-17T07:47:37Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ochtrup** | 2026-04-16 15:00 UTC | **105.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gronau (Westf.)** | 2026-04-16 15:00 UTC | **105.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hörstel** | 2026-04-16 15:00 UTC | **104.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hopsten** | 2026-04-16 15:00 UTC | **104.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Mettingen** | 2026-04-16 15:00 UTC | **104.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Recke** | 2026-04-16 15:00 UTC | **104.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Westerkappeln** | 2026-04-16 15:00 UTC | **103.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heek** | 2026-04-16 16:00 UTC | **103.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Neuenkirchen** | 2026-04-16 15:00 UTC | **103.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wettringen** | 2026-04-16 15:00 UTC | **103.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Burbach** | 2026-04-17 14:00 UTC | **100.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Siegen** | 2026-04-17 14:00 UTC | **100.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warendorf** | 2026-04-17 13:00 UTC | **100.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hilchenbach** | 2026-04-17 15:00 UTC | **100.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Netphen** | 2026-04-17 14:00 UTC | **100.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Harsewinkel** | 2026-04-17 15:00 UTC | **99.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neunkirchen** | 2026-04-17 13:00 UTC | **99.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-04-17 15:00 UTC | **99.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalkar** | 2026-04-17 15:00 UTC | **99.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erndtebrück** | 2026-04-17 15:00 UTC | **99.7** |
 
 ### Colour scale (µg/m³)
 
