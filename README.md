@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-17)
+## Top 10 — Highest Ozone Values Today (2026-04-18)
 
-*Forecast base: 2026-04-17 00:00 UTC · Generated: 2026-04-17T07:47:37Z*
+*Forecast base: 2026-04-18 00:00 UTC · Generated: 2026-04-18T07:08:25Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Burbach** | 2026-04-17 14:00 UTC | **100.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Siegen** | 2026-04-17 14:00 UTC | **100.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warendorf** | 2026-04-17 13:00 UTC | **100.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hilchenbach** | 2026-04-17 15:00 UTC | **100.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Netphen** | 2026-04-17 14:00 UTC | **100.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Harsewinkel** | 2026-04-17 15:00 UTC | **99.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neunkirchen** | 2026-04-17 13:00 UTC | **99.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-04-17 15:00 UTC | **99.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalkar** | 2026-04-17 15:00 UTC | **99.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erndtebrück** | 2026-04-17 15:00 UTC | **99.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Borgentreich** | 2026-04-18 13:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Beverungen** | 2026-04-18 13:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warburg** | 2026-04-18 14:00 UTC | **102.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Siegen** | 2026-04-18 13:00 UTC | **101.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Höxter** | 2026-04-18 13:00 UTC | **100.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Berleburg** | 2026-04-18 14:00 UTC | **100.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wuppertal** | 2026-04-18 15:00 UTC | **100.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Willebadessen** | 2026-04-18 14:00 UTC | **100.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wilnsdorf** | 2026-04-18 11:00 UTC | **99.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Winterberg** | 2026-04-18 12:00 UTC | **99.7** |
 
 ### Colour scale (µg/m³)
 
