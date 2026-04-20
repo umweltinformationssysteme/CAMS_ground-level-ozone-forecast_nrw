@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-19)
+## Top 10 — Highest Ozone Values Today (2026-04-20)
 
-*Forecast base: 2026-04-19 00:00 UTC · Generated: 2026-04-19T07:20:02Z*
+*Forecast base: 2026-04-20 00:00 UTC · Generated: 2026-04-20T08:08:03Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalkar** | 2026-04-19 15:00 UTC | **94.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bedburg-Hau** | 2026-04-19 15:00 UTC | **93.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kleve** | 2026-04-19 15:00 UTC | **93.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Uedem** | 2026-04-19 16:00 UTC | **93.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emmerich am Rhein** | 2026-04-19 15:00 UTC | **93.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kevelaer** | 2026-04-19 16:00 UTC | **93.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kranenburg** | 2026-04-19 15:00 UTC | **93.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Goch** | 2026-04-19 15:00 UTC | **93.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Weeze** | 2026-04-19 15:00 UTC | **93.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geldern** | 2026-04-19 16:00 UTC | **93.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Jüchen** | 2026-04-20 14:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Korschenbroich** | 2026-04-20 14:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grefrath** | 2026-04-20 14:00 UTC | **102.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Willich** | 2026-04-20 14:00 UTC | **102.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kempen** | 2026-04-20 14:00 UTC | **102.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Tönisvorst** | 2026-04-20 14:00 UTC | **102.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Krefeld** | 2026-04-20 13:00 UTC | **102.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kerken** | 2026-04-20 13:00 UTC | **102.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kevelaer** | 2026-04-20 13:00 UTC | **102.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheurdt** | 2026-04-20 13:00 UTC | **102.1** |
 
 ### Colour scale (µg/m³)
 
