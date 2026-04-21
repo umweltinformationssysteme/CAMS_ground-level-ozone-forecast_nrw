@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-20)
+## Top 10 — Highest Ozone Values Today (2026-04-21)
 
-*Forecast base: 2026-04-20 00:00 UTC · Generated: 2026-04-20T08:08:03Z*
+*Forecast base: 2026-04-21 00:00 UTC · Generated: 2026-04-21T07:50:58Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Jüchen** | 2026-04-20 14:00 UTC | **102.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Korschenbroich** | 2026-04-20 14:00 UTC | **102.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grefrath** | 2026-04-20 14:00 UTC | **102.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Willich** | 2026-04-20 14:00 UTC | **102.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kempen** | 2026-04-20 14:00 UTC | **102.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Tönisvorst** | 2026-04-20 14:00 UTC | **102.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Krefeld** | 2026-04-20 13:00 UTC | **102.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kerken** | 2026-04-20 13:00 UTC | **102.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kevelaer** | 2026-04-20 13:00 UTC | **102.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheurdt** | 2026-04-20 13:00 UTC | **102.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nordkirchen** | 2026-04-21 15:00 UTC | **102.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lüdinghausen** | 2026-04-21 15:00 UTC | **101.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selm** | 2026-04-21 15:00 UTC | **101.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sendenhorst** | 2026-04-21 15:00 UTC | **101.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Warendorf** | 2026-04-21 15:00 UTC | **101.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sassenberg** | 2026-04-21 15:00 UTC | **101.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ascheberg** | 2026-04-21 15:00 UTC | **101.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Beelen** | 2026-04-21 15:00 UTC | **101.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Drensteinfurt** | 2026-04-21 15:00 UTC | **101.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Harsewinkel** | 2026-04-21 15:00 UTC | **101.5** |
 
 ### Colour scale (µg/m³)
 
