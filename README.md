@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-27)
+## Top 10 — Highest Ozone Values Today (2026-04-28)
 
-*Forecast base: 2026-04-27 00:00 UTC · Generated: 2026-04-27T08:27:01Z*
+*Forecast base: 2026-04-28 00:00 UTC · Generated: 2026-04-28T08:26:05Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-04-27 16:00 UTC | **113.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-04-27 16:00 UTC | **113.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bonn** | 2026-04-27 16:00 UTC | **112.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Alfter** | 2026-04-27 16:00 UTC | **112.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Königswinter** | 2026-04-27 15:00 UTC | **112.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wachtberg** | 2026-04-27 15:00 UTC | **112.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-04-27 16:00 UTC | **111.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sankt Augustin** | 2026-04-27 15:00 UTC | **111.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Köln** | 2026-04-27 16:00 UTC | **110.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bergisch Gladbach** | 2026-04-27 16:00 UTC | **110.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gangelt** | 2026-04-28 14:00 UTC | **107.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selfkant** | 2026-04-28 14:00 UTC | **107.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldfeucht** | 2026-04-28 14:00 UTC | **107.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Vettweiß** | 2026-04-28 14:00 UTC | **106.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herzogenrath** | 2026-04-28 15:00 UTC | **106.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Baesweiler** | 2026-04-28 14:00 UTC | **106.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Geilenkirchen** | 2026-04-28 14:00 UTC | **106.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Übach-Palenberg** | 2026-04-28 14:00 UTC | **106.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Linnich** | 2026-04-28 14:00 UTC | **106.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heinsberg** | 2026-04-28 14:00 UTC | **106.5** |
 
 ### Colour scale (µg/m³)
 
