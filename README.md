@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-04-28)
+## Top 10 — Highest Ozone Values Today (2026-04-29)
 
-*Forecast base: 2026-04-28 00:00 UTC · Generated: 2026-04-28T08:26:05Z*
+*Forecast base: 2026-04-29 00:00 UTC · Generated: 2026-04-29T08:19:07Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gangelt** | 2026-04-28 14:00 UTC | **107.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selfkant** | 2026-04-28 14:00 UTC | **107.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldfeucht** | 2026-04-28 14:00 UTC | **107.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Vettweiß** | 2026-04-28 14:00 UTC | **106.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herzogenrath** | 2026-04-28 15:00 UTC | **106.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Baesweiler** | 2026-04-28 14:00 UTC | **106.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Geilenkirchen** | 2026-04-28 14:00 UTC | **106.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Übach-Palenberg** | 2026-04-28 14:00 UTC | **106.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Linnich** | 2026-04-28 14:00 UTC | **106.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heinsberg** | 2026-04-28 14:00 UTC | **106.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selfkant** | 2026-04-29 14:00 UTC | **103.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldfeucht** | 2026-04-29 14:00 UTC | **103.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grefrath** | 2026-04-29 15:00 UTC | **102.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heinsberg** | 2026-04-29 14:00 UTC | **102.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gelsenkirchen** | 2026-04-29 14:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gangelt** | 2026-04-29 14:00 UTC | **102.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Borken** | 2026-04-29 15:00 UTC | **102.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kempen** | 2026-04-29 15:00 UTC | **102.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Tönisvorst** | 2026-04-29 15:00 UTC | **102.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Viersen** | 2026-04-29 15:00 UTC | **102.5** |
 
 ### Colour scale (µg/m³)
 
