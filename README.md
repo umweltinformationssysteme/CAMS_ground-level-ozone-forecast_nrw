@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-01)
+## Top 10 — Highest Ozone Values Today (2026-05-02)
 
-*Forecast base: 2026-05-01 00:00 UTC · Generated: 2026-05-01T08:12:25Z*
+*Forecast base: 2026-05-02 00:00 UTC · Generated: 2026-05-02T07:44:45Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bedburg-Hau** | 2026-05-01 15:00 UTC | **111.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kleve** | 2026-05-01 15:00 UTC | **111.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grefrath** | 2026-05-01 15:00 UTC | **111.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kempen** | 2026-05-01 15:00 UTC | **111.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Tönisvorst** | 2026-05-01 15:00 UTC | **111.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kevelaer** | 2026-05-01 14:00 UTC | **111.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Goch** | 2026-05-01 14:00 UTC | **110.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weeze** | 2026-05-01 14:00 UTC | **110.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Krefeld** | 2026-05-01 15:00 UTC | **110.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Straelen** | 2026-05-01 14:00 UTC | **110.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Petershagen** | 2026-05-02 12:00 UTC | **119.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Oeynhausen** | 2026-05-02 12:00 UTC | **118.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Espelkamp** | 2026-05-02 12:00 UTC | **118.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lübbecke** | 2026-05-02 12:00 UTC | **118.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rahden** | 2026-05-02 12:00 UTC | **118.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hille** | 2026-05-02 12:00 UTC | **117.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Minden** | 2026-05-02 12:00 UTC | **116.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Porta Westfalica** | 2026-05-02 12:00 UTC | **116.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herford** | 2026-05-02 12:00 UTC | **116.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hiddenhausen** | 2026-05-02 12:00 UTC | **116.1** |
 
 ### Colour scale (µg/m³)
 
