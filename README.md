@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-02)
+## Top 10 — Highest Ozone Values Today (2026-05-03)
 
-*Forecast base: 2026-05-02 00:00 UTC · Generated: 2026-05-02T07:44:45Z*
+*Forecast base: 2026-05-03 00:00 UTC · Generated: 2026-05-03T08:01:45Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Petershagen** | 2026-05-02 12:00 UTC | **119.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Oeynhausen** | 2026-05-02 12:00 UTC | **118.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Espelkamp** | 2026-05-02 12:00 UTC | **118.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lübbecke** | 2026-05-02 12:00 UTC | **118.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rahden** | 2026-05-02 12:00 UTC | **118.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hille** | 2026-05-02 12:00 UTC | **117.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Minden** | 2026-05-02 12:00 UTC | **116.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Porta Westfalica** | 2026-05-02 12:00 UTC | **116.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herford** | 2026-05-02 12:00 UTC | **116.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hiddenhausen** | 2026-05-02 12:00 UTC | **116.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herford** | 2026-05-03 14:00 UTC | **107.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hiddenhausen** | 2026-05-03 14:00 UTC | **107.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kirchlengern** | 2026-05-03 14:00 UTC | **107.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Löhne** | 2026-05-03 14:00 UTC | **107.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bielefeld** | 2026-05-03 14:00 UTC | **106.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hüllhorst** | 2026-05-03 13:00 UTC | **105.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Espelkamp** | 2026-05-03 14:00 UTC | **105.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lübbecke** | 2026-05-03 14:00 UTC | **105.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hille** | 2026-05-03 13:00 UTC | **105.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Steinhagen** | 2026-05-03 14:00 UTC | **104.8** |
 
 ### Colour scale (µg/m³)
 
