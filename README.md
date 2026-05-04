@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-03)
+## Top 10 — Highest Ozone Values Today (2026-05-04)
 
-*Forecast base: 2026-05-03 00:00 UTC · Generated: 2026-05-03T08:01:45Z*
+*Forecast base: 2026-05-04 00:00 UTC · Generated: 2026-05-04T08:30:40Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herford** | 2026-05-03 14:00 UTC | **107.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hiddenhausen** | 2026-05-03 14:00 UTC | **107.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kirchlengern** | 2026-05-03 14:00 UTC | **107.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Löhne** | 2026-05-03 14:00 UTC | **107.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bielefeld** | 2026-05-03 14:00 UTC | **106.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hüllhorst** | 2026-05-03 13:00 UTC | **105.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Espelkamp** | 2026-05-03 14:00 UTC | **105.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lübbecke** | 2026-05-03 14:00 UTC | **105.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hille** | 2026-05-03 13:00 UTC | **105.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Steinhagen** | 2026-05-03 14:00 UTC | **104.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-05-04 15:00 UTC | **99.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hamm** | 2026-05-04 14:00 UTC | **99.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Welver** | 2026-05-04 14:00 UTC | **99.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ochtrup** | 2026-05-04 15:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-05-04 15:00 UTC | **98.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Langenberg** | 2026-05-04 14:00 UTC | **98.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wadersloh** | 2026-05-04 14:00 UTC | **97.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hövelhof** | 2026-05-04 14:00 UTC | **97.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Heek** | 2026-05-04 15:00 UTC | **97.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bergkamen** | 2026-05-04 14:00 UTC | **97.0** |
 
 ### Colour scale (µg/m³)
 
