@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-04)
+## Top 10 — Highest Ozone Values Today (2026-05-05)
 
-*Forecast base: 2026-05-04 00:00 UTC · Generated: 2026-05-04T08:30:40Z*
+*Forecast base: 2026-05-05 00:00 UTC · Generated: 2026-05-05T08:10:17Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-05-04 15:00 UTC | **99.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hamm** | 2026-05-04 14:00 UTC | **99.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Welver** | 2026-05-04 14:00 UTC | **99.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ochtrup** | 2026-05-04 15:00 UTC | **99.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-05-04 15:00 UTC | **98.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Langenberg** | 2026-05-04 14:00 UTC | **98.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wadersloh** | 2026-05-04 14:00 UTC | **97.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hövelhof** | 2026-05-04 14:00 UTC | **97.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Heek** | 2026-05-04 15:00 UTC | **97.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bergkamen** | 2026-05-04 14:00 UTC | **97.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warburg** | 2026-05-05 13:00 UTC | **97.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borgentreich** | 2026-05-05 14:00 UTC | **93.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Netphen** | 2026-05-05 10:00 UTC | **91.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neuenkirchen** | 2026-05-05 15:00 UTC | **91.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wettringen** | 2026-05-05 15:00 UTC | **91.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Waldbröl** | 2026-05-05 11:00 UTC | **91.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Windeck** | 2026-05-05 11:00 UTC | **91.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-05-05 18:00 UTC | **91.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hörstel** | 2026-05-05 14:00 UTC | **90.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Burbach** | 2026-05-05 11:00 UTC | **90.9** |
 
 ### Colour scale (µg/m³)
 
