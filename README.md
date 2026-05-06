@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-05)
+## Top 10 — Highest Ozone Values Today (2026-05-06)
 
-*Forecast base: 2026-05-05 00:00 UTC · Generated: 2026-05-05T08:10:17Z*
+*Forecast base: 2026-05-06 00:00 UTC · Generated: 2026-05-06T08:27:29Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warburg** | 2026-05-05 13:00 UTC | **97.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borgentreich** | 2026-05-05 14:00 UTC | **93.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Netphen** | 2026-05-05 10:00 UTC | **91.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neuenkirchen** | 2026-05-05 15:00 UTC | **91.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wettringen** | 2026-05-05 15:00 UTC | **91.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Waldbröl** | 2026-05-05 11:00 UTC | **91.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Windeck** | 2026-05-05 11:00 UTC | **91.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-05-05 18:00 UTC | **91.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hörstel** | 2026-05-05 14:00 UTC | **90.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Burbach** | 2026-05-05 11:00 UTC | **90.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bedburg-Hau** | 2026-05-06 14:00 UTC | **91.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kleve** | 2026-05-06 14:00 UTC | **91.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Goch** | 2026-05-06 15:00 UTC | **91.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Weeze** | 2026-05-06 15:00 UTC | **91.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kranenburg** | 2026-05-06 14:00 UTC | **90.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emmerich am Rhein** | 2026-05-06 14:00 UTC | **90.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalkar** | 2026-05-06 15:00 UTC | **89.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Uedem** | 2026-05-06 15:00 UTC | **88.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-05-06 17:00 UTC | **88.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Isselburg** | 2026-05-06 13:00 UTC | **87.7** |
 
 ### Colour scale (µg/m³)
 
