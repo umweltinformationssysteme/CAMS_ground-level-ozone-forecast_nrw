@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-07)
+## Top 10 — Highest Ozone Values Today (2026-05-08)
 
-*Forecast base: 2026-05-07 00:00 UTC · Generated: 2026-05-07T08:34:23Z*
+*Forecast base: 2026-05-08 00:00 UTC · Generated: 2026-05-08T07:42:30Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Uedem** | 2026-05-07 15:00 UTC | **102.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rees** | 2026-05-07 14:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kevelaer** | 2026-05-07 15:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sonsbeck** | 2026-05-07 15:00 UTC | **102.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Geldern** | 2026-05-07 15:00 UTC | **101.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kalkar** | 2026-05-07 15:00 UTC | **101.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kranenburg** | 2026-05-07 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Selfkant** | 2026-05-07 15:00 UTC | **101.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Waldfeucht** | 2026-05-07 15:00 UTC | **101.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bedburg-Hau** | 2026-05-07 15:00 UTC | **101.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hilden** | 2026-05-08 15:00 UTC | **112.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Langenfeld (Rhld.)** | 2026-05-08 15:00 UTC | **112.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Frechen** | 2026-05-08 15:00 UTC | **108.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Pulheim** | 2026-05-08 15:00 UTC | **108.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Leverkusen** | 2026-05-08 16:00 UTC | **108.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Mönchengladbach** | 2026-05-08 15:00 UTC | **108.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Neuss** | 2026-05-08 15:00 UTC | **107.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kevelaer** | 2026-05-08 16:00 UTC | **106.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Willich** | 2026-05-08 16:00 UTC | **106.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Solingen** | 2026-05-08 15:00 UTC | **106.7** |
 
 ### Colour scale (µg/m³)
 
