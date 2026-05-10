@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-09)
+## Top 10 — Highest Ozone Values Today (2026-05-10)
 
-*Forecast base: 2026-05-09 00:00 UTC · Generated: 2026-05-09T07:56:58Z*
+*Forecast base: 2026-05-10 00:00 UTC · Generated: 2026-05-10T08:08:26Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Grefrath** | 2026-05-09 15:00 UTC | **120.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Krefeld** | 2026-05-09 15:00 UTC | **120.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Kempen** | 2026-05-09 15:00 UTC | **119.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Tönisvorst** | 2026-05-09 15:00 UTC | **119.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Brüggen** | 2026-05-09 15:00 UTC | **119.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Schwalmtal** | 2026-05-09 15:00 UTC | **119.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Viersen** | 2026-05-09 15:00 UTC | **119.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nettetal** | 2026-05-09 15:00 UTC | **119.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Jüchen** | 2026-05-09 16:00 UTC | **118.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Korschenbroich** | 2026-05-09 16:00 UTC | **118.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erftstadt** | 2026-05-10 14:00 UTC | **113.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hürth** | 2026-05-10 14:00 UTC | **113.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Frechen** | 2026-05-10 14:00 UTC | **112.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Pulheim** | 2026-05-10 14:00 UTC | **112.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-05-10 14:00 UTC | **112.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-05-10 14:00 UTC | **112.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weilerswist** | 2026-05-10 14:00 UTC | **111.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Monheim am Rhein** | 2026-05-10 14:00 UTC | **110.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Dormagen** | 2026-05-10 14:00 UTC | **110.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bornheim** | 2026-05-10 13:00 UTC | **110.0** |
 
 ### Colour scale (µg/m³)
 
