@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-10)
+## Top 10 — Highest Ozone Values Today (2026-05-11)
 
-*Forecast base: 2026-05-10 00:00 UTC · Generated: 2026-05-10T08:08:26Z*
+*Forecast base: 2026-05-11 00:00 UTC · Generated: 2026-05-11T09:39:50Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erftstadt** | 2026-05-10 14:00 UTC | **113.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hürth** | 2026-05-10 14:00 UTC | **113.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Frechen** | 2026-05-10 14:00 UTC | **112.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Pulheim** | 2026-05-10 14:00 UTC | **112.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-05-10 14:00 UTC | **112.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-05-10 14:00 UTC | **112.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weilerswist** | 2026-05-10 14:00 UTC | **111.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Monheim am Rhein** | 2026-05-10 14:00 UTC | **110.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Dormagen** | 2026-05-10 14:00 UTC | **110.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bornheim** | 2026-05-10 13:00 UTC | **110.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emmerich am Rhein** | 2026-05-11 15:00 UTC | **98.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kranenburg** | 2026-05-11 15:00 UTC | **98.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-05-11 15:00 UTC | **97.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Xanten** | 2026-05-11 16:00 UTC | **97.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ostbevern** | 2026-05-11 16:00 UTC | **97.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ahaus** | 2026-05-11 15:00 UTC | **97.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Südlohn** | 2026-05-11 15:00 UTC | **97.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheine** | 2026-05-11 15:00 UTC | **97.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geldern** | 2026-05-11 16:00 UTC | **97.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hünxe** | 2026-05-11 16:00 UTC | **97.2** |
 
 ### Colour scale (µg/m³)
 
