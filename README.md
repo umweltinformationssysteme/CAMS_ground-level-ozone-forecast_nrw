@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-11)
+## Top 10 — Highest Ozone Values Today (2026-05-12)
 
-*Forecast base: 2026-05-11 00:00 UTC · Generated: 2026-05-11T09:39:50Z*
+*Forecast base: 2026-05-12 00:00 UTC · Generated: 2026-05-12T08:40:23Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emmerich am Rhein** | 2026-05-11 15:00 UTC | **98.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kranenburg** | 2026-05-11 15:00 UTC | **98.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vreden** | 2026-05-11 15:00 UTC | **97.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Xanten** | 2026-05-11 16:00 UTC | **97.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ostbevern** | 2026-05-11 16:00 UTC | **97.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ahaus** | 2026-05-11 15:00 UTC | **97.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Südlohn** | 2026-05-11 15:00 UTC | **97.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheine** | 2026-05-11 15:00 UTC | **97.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geldern** | 2026-05-11 16:00 UTC | **97.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hünxe** | 2026-05-11 16:00 UTC | **97.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Moers** | 2026-05-12 14:00 UTC | **101.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Stolberg (Rhld.)** | 2026-05-12 15:00 UTC | **101.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Schleiden** | 2026-05-12 15:00 UTC | **100.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Dorsten** | 2026-05-12 15:00 UTC | **100.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bedburg** | 2026-05-12 13:00 UTC | **100.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Elsdorf** | 2026-05-12 13:00 UTC | **100.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Heimbach** | 2026-05-12 15:00 UTC | **100.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nideggen** | 2026-05-12 15:00 UTC | **100.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinberg** | 2026-05-12 14:00 UTC | **100.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Voerde (Niederrhein)** | 2026-05-12 14:00 UTC | **100.5** |
 
 ### Colour scale (µg/m³)
 
