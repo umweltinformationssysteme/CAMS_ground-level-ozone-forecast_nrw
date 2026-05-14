@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-13)
+## Top 10 — Highest Ozone Values Today (2026-05-14)
 
-*Forecast base: 2026-05-13 00:00 UTC · Generated: 2026-05-13T08:45:17Z*
+*Forecast base: 2026-05-14 00:00 UTC · Generated: 2026-05-14T08:38:42Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Castrop-Rauxel** | 2026-05-13 15:00 UTC | **96.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Waltrop** | 2026-05-13 15:00 UTC | **95.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lippetal** | 2026-05-13 15:00 UTC | **95.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Welver** | 2026-05-13 15:00 UTC | **95.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Herne** | 2026-05-13 14:00 UTC | **94.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bochum** | 2026-05-13 14:00 UTC | **94.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Dortmund** | 2026-05-13 15:00 UTC | **94.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ahlen** | 2026-05-13 15:00 UTC | **94.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hamm** | 2026-05-13 15:00 UTC | **94.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beckum** | 2026-05-13 15:00 UTC | **94.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Coesfeld** | 2026-05-14 15:00 UTC | **85.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Billerbeck** | 2026-05-14 15:00 UTC | **85.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Legden** | 2026-05-14 14:00 UTC | **85.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-05-14 16:00 UTC | **85.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nottuln** | 2026-05-14 15:00 UTC | **85.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kranenburg** | 2026-05-14 15:00 UTC | **85.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ochtrup** | 2026-05-14 16:00 UTC | **84.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Isselburg** | 2026-05-14 15:00 UTC | **84.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bedburg-Hau** | 2026-05-14 15:00 UTC | **84.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kleve** | 2026-05-14 15:00 UTC | **84.4** |
 
 ### Colour scale (µg/m³)
 
