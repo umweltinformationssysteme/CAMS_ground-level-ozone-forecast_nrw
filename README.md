@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-14)
+## Top 10 — Highest Ozone Values Today (2026-05-15)
 
-*Forecast base: 2026-05-14 00:00 UTC · Generated: 2026-05-14T08:38:42Z*
+*Forecast base: 2026-05-15 00:00 UTC · Generated: 2026-05-15T08:49:32Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Coesfeld** | 2026-05-14 15:00 UTC | **85.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Billerbeck** | 2026-05-14 15:00 UTC | **85.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Legden** | 2026-05-14 14:00 UTC | **85.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gronau (Westf.)** | 2026-05-14 16:00 UTC | **85.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nottuln** | 2026-05-14 15:00 UTC | **85.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kranenburg** | 2026-05-14 15:00 UTC | **85.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ochtrup** | 2026-05-14 16:00 UTC | **84.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Isselburg** | 2026-05-14 15:00 UTC | **84.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bedburg-Hau** | 2026-05-14 15:00 UTC | **84.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kleve** | 2026-05-14 15:00 UTC | **84.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wilnsdorf** | 2026-05-15 15:00 UTC | **98.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beverungen** | 2026-05-15 16:00 UTC | **98.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borgentreich** | 2026-05-15 15:00 UTC | **97.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erndtebrück** | 2026-05-15 15:00 UTC | **97.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Brakel** | 2026-05-15 15:00 UTC | **97.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warburg** | 2026-05-15 15:00 UTC | **97.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Willebadessen** | 2026-05-15 15:00 UTC | **96.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nieheim** | 2026-05-15 15:00 UTC | **96.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hilchenbach** | 2026-05-15 15:00 UTC | **96.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Siegen** | 2026-05-15 15:00 UTC | **96.8** |
 
 ### Colour scale (µg/m³)
 
