@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-15)
+## Top 10 — Highest Ozone Values Today (2026-05-16)
 
-*Forecast base: 2026-05-15 00:00 UTC · Generated: 2026-05-15T08:49:32Z*
+*Forecast base: 2026-05-16 00:00 UTC · Generated: 2026-05-16T08:05:08Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wilnsdorf** | 2026-05-15 15:00 UTC | **98.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beverungen** | 2026-05-15 16:00 UTC | **98.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borgentreich** | 2026-05-15 15:00 UTC | **97.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erndtebrück** | 2026-05-15 15:00 UTC | **97.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Brakel** | 2026-05-15 15:00 UTC | **97.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warburg** | 2026-05-15 15:00 UTC | **97.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Willebadessen** | 2026-05-15 15:00 UTC | **96.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nieheim** | 2026-05-15 15:00 UTC | **96.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hilchenbach** | 2026-05-15 15:00 UTC | **96.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Siegen** | 2026-05-15 15:00 UTC | **96.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gevelsberg** | 2026-05-16 16:00 UTC | **104.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wetter (Ruhr)** | 2026-05-16 16:00 UTC | **104.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grevenbroich** | 2026-05-16 13:00 UTC | **104.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Overath** | 2026-05-16 15:00 UTC | **104.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sonsbeck** | 2026-05-16 15:00 UTC | **103.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Xanten** | 2026-05-16 15:00 UTC | **103.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Raesfeld** | 2026-05-16 16:00 UTC | **103.9** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Uedem** | 2026-05-16 15:00 UTC | **103.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wesel** | 2026-05-16 15:00 UTC | **103.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rees** | 2026-05-16 15:00 UTC | **103.5** |
 
 ### Colour scale (µg/m³)
 
