@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-17)
+## Top 10 — Highest Ozone Values Today (2026-05-18)
 
-*Forecast base: 2026-05-17 00:00 UTC · Generated: 2026-05-17T08:21:42Z*
+*Forecast base: 2026-05-18 00:00 UTC · Generated: 2026-05-18T10:04:19Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hüllhorst** | 2026-05-17 11:00 UTC | **92.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Herford** | 2026-05-17 11:00 UTC | **92.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hiddenhausen** | 2026-05-17 11:00 UTC | **92.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kirchlengern** | 2026-05-17 11:00 UTC | **92.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Löhne** | 2026-05-17 11:00 UTC | **92.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bielefeld** | 2026-05-17 11:00 UTC | **91.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-05-17 12:00 UTC | **91.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bünde** | 2026-05-17 11:00 UTC | **91.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Enger** | 2026-05-17 11:00 UTC | **91.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Espelkamp** | 2026-05-17 12:00 UTC | **91.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kempen** | 2026-05-18 16:00 UTC | **92.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Tönisvorst** | 2026-05-18 16:00 UTC | **92.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neukirchen-Vluyn** | 2026-05-18 16:00 UTC | **92.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Krefeld** | 2026-05-18 16:00 UTC | **92.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheurdt** | 2026-05-18 16:00 UTC | **92.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Willich** | 2026-05-18 16:00 UTC | **92.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Viersen** | 2026-05-18 16:00 UTC | **92.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Moers** | 2026-05-18 16:00 UTC | **91.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Niederkrüchten** | 2026-05-18 15:00 UTC | **91.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wegberg** | 2026-05-18 15:00 UTC | **91.8** |
 
 ### Colour scale (µg/m³)
 
