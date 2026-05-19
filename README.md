@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-18)
+## Top 10 — Highest Ozone Values Today (2026-05-19)
 
-*Forecast base: 2026-05-18 00:00 UTC · Generated: 2026-05-18T10:04:19Z*
+*Forecast base: 2026-05-19 00:00 UTC · Generated: 2026-05-19T09:42:30Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kempen** | 2026-05-18 16:00 UTC | **92.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Tönisvorst** | 2026-05-18 16:00 UTC | **92.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Neukirchen-Vluyn** | 2026-05-18 16:00 UTC | **92.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Krefeld** | 2026-05-18 16:00 UTC | **92.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheurdt** | 2026-05-18 16:00 UTC | **92.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Willich** | 2026-05-18 16:00 UTC | **92.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Viersen** | 2026-05-18 16:00 UTC | **92.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Moers** | 2026-05-18 16:00 UTC | **91.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Niederkrüchten** | 2026-05-18 15:00 UTC | **91.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wegberg** | 2026-05-18 15:00 UTC | **91.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-05-19 12:00 UTC | **96.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Petershagen** | 2026-05-19 13:00 UTC | **95.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hille** | 2026-05-19 12:00 UTC | **94.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-05-19 12:00 UTC | **94.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-05-19 12:00 UTC | **94.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Mettingen** | 2026-05-19 13:00 UTC | **93.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recke** | 2026-05-19 13:00 UTC | **93.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hopsten** | 2026-05-19 13:00 UTC | **93.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hörstel** | 2026-05-19 13:00 UTC | **93.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vlotho** | 2026-05-19 12:00 UTC | **93.0** |
 
 ### Colour scale (µg/m³)
 
