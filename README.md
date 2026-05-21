@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-20)
+## Top 10 — Highest Ozone Values Today (2026-05-21)
 
-*Forecast base: 2026-05-20 00:00 UTC · Generated: 2026-05-20T09:33:49Z*
+*Forecast base: 2026-05-21 00:00 UTC · Generated: 2026-05-21T09:40:57Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Issum** | 2026-05-20 14:00 UTC | **89.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geldern** | 2026-05-20 14:00 UTC | **89.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Alpen** | 2026-05-20 14:00 UTC | **89.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kamp-Lintfort** | 2026-05-20 14:00 UTC | **89.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Detmold** | 2026-05-20 15:00 UTC | **89.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheinberg** | 2026-05-20 14:00 UTC | **88.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Voerde (Niederrhein)** | 2026-05-20 14:00 UTC | **88.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warendorf** | 2026-05-20 16:00 UTC | **88.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Sassenberg** | 2026-05-20 16:00 UTC | **88.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schlangen** | 2026-05-20 15:00 UTC | **88.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bonn** | 2026-05-21 15:00 UTC | **101.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Alfter** | 2026-05-21 15:00 UTC | **101.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sankt Augustin** | 2026-05-21 15:00 UTC | **101.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Honnef** | 2026-05-21 15:00 UTC | **101.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hennef (Sieg)** | 2026-05-21 15:00 UTC | **101.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Siegburg** | 2026-05-21 15:00 UTC | **101.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grevenbroich** | 2026-05-21 15:00 UTC | **100.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Königswinter** | 2026-05-21 15:00 UTC | **100.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wachtberg** | 2026-05-21 15:00 UTC | **100.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Eitorf** | 2026-05-21 15:00 UTC | **100.0** |
 
 ### Colour scale (µg/m³)
 
