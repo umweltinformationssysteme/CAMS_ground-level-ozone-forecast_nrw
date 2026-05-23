@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-22)
+## Top 10 — Highest Ozone Values Today (2026-05-23)
 
-*Forecast base: 2026-05-22 00:00 UTC · Generated: 2026-05-22T09:23:13Z*
+*Forecast base: 2026-05-23 00:00 UTC · Generated: 2026-05-23T08:19:52Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Raesfeld** | 2026-05-22 15:00 UTC | **135.8** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Heiden** | 2026-05-22 15:00 UTC | **134.7** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Velen** | 2026-05-22 15:00 UTC | **134.7** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Dorsten** | 2026-05-22 14:00 UTC | **134.5** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Borken** | 2026-05-22 16:00 UTC | **133.9** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Isselburg** | 2026-05-22 15:00 UTC | **133.5** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Kempen** | 2026-05-22 16:00 UTC | **132.9** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Tönisvorst** | 2026-05-22 16:00 UTC | **132.9** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bocholt** | 2026-05-22 16:00 UTC | **132.8** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Rhede** | 2026-05-22 16:00 UTC | **132.8** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Marl** | 2026-05-23 15:00 UTC | **141.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Recklinghausen** | 2026-05-23 15:00 UTC | **141.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Velbert** | 2026-05-23 15:00 UTC | **141.1** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Essen** | 2026-05-23 15:00 UTC | **140.9** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Erftstadt** | 2026-05-23 13:00 UTC | **140.6** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hürth** | 2026-05-23 13:00 UTC | **140.6** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Witten** | 2026-05-23 15:00 UTC | **140.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Gelsenkirchen** | 2026-05-23 16:00 UTC | **139.9** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bochum** | 2026-05-23 15:00 UTC | **139.9** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bottrop** | 2026-05-23 15:00 UTC | **139.9** |
 
 ### Colour scale (µg/m³)
 
