@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-23)
+## Top 10 — Highest Ozone Values Today (2026-05-24)
 
-*Forecast base: 2026-05-23 00:00 UTC · Generated: 2026-05-23T08:19:52Z*
+*Forecast base: 2026-05-24 00:00 UTC · Generated: 2026-05-24T08:29:41Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Marl** | 2026-05-23 15:00 UTC | **141.7** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Recklinghausen** | 2026-05-23 15:00 UTC | **141.7** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Velbert** | 2026-05-23 15:00 UTC | **141.1** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Essen** | 2026-05-23 15:00 UTC | **140.9** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Erftstadt** | 2026-05-23 13:00 UTC | **140.6** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hürth** | 2026-05-23 13:00 UTC | **140.6** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Witten** | 2026-05-23 15:00 UTC | **140.2** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Gelsenkirchen** | 2026-05-23 16:00 UTC | **139.9** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bochum** | 2026-05-23 15:00 UTC | **139.9** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bottrop** | 2026-05-23 15:00 UTC | **139.9** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Königswinter** | 2026-05-24 12:00 UTC | **134.0** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Wachtberg** | 2026-05-24 12:00 UTC | **134.0** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bad Honnef** | 2026-05-24 12:00 UTC | **131.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Sankt Augustin** | 2026-05-24 12:00 UTC | **129.4** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Rheinbach** | 2026-05-24 13:00 UTC | **127.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Hennef (Sieg)** | 2026-05-24 12:00 UTC | **126.1** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Siegburg** | 2026-05-24 12:00 UTC | **126.1** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Meckenheim** | 2026-05-24 13:00 UTC | **124.5** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Dahlem** | 2026-05-24 12:00 UTC | **123.8** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Swisttal** | 2026-05-24 14:00 UTC | **123.6** |
 
 ### Colour scale (µg/m³)
 
