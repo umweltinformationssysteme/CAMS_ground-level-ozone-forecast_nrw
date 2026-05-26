@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-25)
+## Top 10 — Highest Ozone Values Today (2026-05-26)
 
-*Forecast base: 2026-05-25 00:00 UTC · Generated: 2026-05-25T10:05:37Z*
+*Forecast base: 2026-05-26 00:00 UTC · Generated: 2026-05-26T09:56:20Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Frechen** | 2026-05-25 16:00 UTC | **145.6** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Pulheim** | 2026-05-25 16:00 UTC | **145.6** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Monheim am Rhein** | 2026-05-25 15:00 UTC | **145.3** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Dormagen** | 2026-05-25 15:00 UTC | **145.3** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Erftstadt** | 2026-05-25 15:00 UTC | **144.1** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hürth** | 2026-05-25 15:00 UTC | **144.1** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hilden** | 2026-05-25 16:00 UTC | **144.1** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Langenfeld (Rhld.)** | 2026-05-25 16:00 UTC | **144.1** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Düren** | 2026-05-25 16:00 UTC | **143.3** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Niederzier** | 2026-05-25 16:00 UTC | **143.3** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Willich** | 2026-05-26 16:00 UTC | **155.1** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Krefeld** | 2026-05-26 15:00 UTC | **154.9** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Mönchengladbach** | 2026-05-26 17:00 UTC | **151.4** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Brüggen** | 2026-05-26 16:00 UTC | **151.1** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Essen** | 2026-05-26 15:00 UTC | **150.0** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Merzenich** | 2026-05-26 15:00 UTC | **148.8** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Niederkrüchten** | 2026-05-26 17:00 UTC | **148.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Wegberg** | 2026-05-26 17:00 UTC | **148.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Jüchen** | 2026-05-26 17:00 UTC | **148.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Korschenbroich** | 2026-05-26 17:00 UTC | **148.7** |
 
 ### Colour scale (µg/m³)
 
