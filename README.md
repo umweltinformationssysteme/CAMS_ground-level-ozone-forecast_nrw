@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-27)
+## Top 10 — Highest Ozone Values Today (2026-05-28)
 
-*Forecast base: 2026-05-27 00:00 UTC · Generated: 2026-05-27T09:48:08Z*
+*Forecast base: 2026-05-28 00:00 UTC · Generated: 2026-05-28T10:01:18Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erftstadt** | 2026-05-27 15:00 UTC | **119.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hürth** | 2026-05-27 15:00 UTC | **119.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-05-27 16:00 UTC | **118.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-05-27 16:00 UTC | **118.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weilerswist** | 2026-05-27 15:00 UTC | **116.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-05-27 15:00 UTC | **115.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bornheim** | 2026-05-27 15:00 UTC | **114.9** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Brühl** | 2026-05-27 14:00 UTC | **114.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wesseling** | 2026-05-27 14:00 UTC | **114.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Dahlem** | 2026-05-27 11:00 UTC | **114.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-05-28 16:00 UTC | **116.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weilerswist** | 2026-05-28 17:00 UTC | **115.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erftstadt** | 2026-05-28 15:00 UTC | **115.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hürth** | 2026-05-28 15:00 UTC | **115.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-05-28 16:00 UTC | **115.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-05-28 16:00 UTC | **115.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Münstereifel** | 2026-05-28 17:00 UTC | **114.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Frechen** | 2026-05-28 15:00 UTC | **114.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Pulheim** | 2026-05-28 15:00 UTC | **114.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-05-28 15:00 UTC | **113.5** |
 
 ### Colour scale (µg/m³)
 
