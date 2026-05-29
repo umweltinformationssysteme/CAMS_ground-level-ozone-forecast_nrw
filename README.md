@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-28)
+## Top 10 — Highest Ozone Values Today (2026-05-29)
 
-*Forecast base: 2026-05-28 00:00 UTC · Generated: 2026-05-28T10:01:18Z*
+*Forecast base: 2026-05-29 00:00 UTC · Generated: 2026-05-29T09:54:38Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Euskirchen** | 2026-05-28 16:00 UTC | **116.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Weilerswist** | 2026-05-28 17:00 UTC | **115.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erftstadt** | 2026-05-28 15:00 UTC | **115.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hürth** | 2026-05-28 15:00 UTC | **115.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Swisttal** | 2026-05-28 16:00 UTC | **115.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Rheinbach** | 2026-05-28 16:00 UTC | **115.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bad Münstereifel** | 2026-05-28 17:00 UTC | **114.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Frechen** | 2026-05-28 15:00 UTC | **114.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Pulheim** | 2026-05-28 15:00 UTC | **114.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Meckenheim** | 2026-05-28 15:00 UTC | **113.5** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Solingen** | 2026-05-29 14:00 UTC | **146.5** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Haan** | 2026-05-29 14:00 UTC | **146.5** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Leichlingen (Rhld.)** | 2026-05-29 14:00 UTC | **146.5** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Burscheid** | 2026-05-29 14:00 UTC | **144.4** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Odenthal** | 2026-05-29 14:00 UTC | **144.4** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Wülfrath** | 2026-05-29 14:00 UTC | **144.0** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hilden** | 2026-05-29 14:00 UTC | **143.3** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Langenfeld (Rhld.)** | 2026-05-29 14:00 UTC | **143.3** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Remscheid** | 2026-05-29 14:00 UTC | **142.8** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Wuppertal** | 2026-05-29 14:00 UTC | **142.5** |
 
 ### Colour scale (µg/m³)
 
