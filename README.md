@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-29)
+## Top 10 — Highest Ozone Values Today (2026-05-30)
 
-*Forecast base: 2026-05-29 00:00 UTC · Generated: 2026-05-29T09:54:38Z*
+*Forecast base: 2026-05-30 00:00 UTC · Generated: 2026-05-30T08:28:23Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Solingen** | 2026-05-29 14:00 UTC | **146.5** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Haan** | 2026-05-29 14:00 UTC | **146.5** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Leichlingen (Rhld.)** | 2026-05-29 14:00 UTC | **146.5** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Burscheid** | 2026-05-29 14:00 UTC | **144.4** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Odenthal** | 2026-05-29 14:00 UTC | **144.4** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Wülfrath** | 2026-05-29 14:00 UTC | **144.0** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hilden** | 2026-05-29 14:00 UTC | **143.3** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Langenfeld (Rhld.)** | 2026-05-29 14:00 UTC | **143.3** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Remscheid** | 2026-05-29 14:00 UTC | **142.8** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Wuppertal** | 2026-05-29 14:00 UTC | **142.5** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Gangelt** | 2026-05-30 16:00 UTC | **132.4** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Solingen** | 2026-05-30 15:00 UTC | **131.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Haan** | 2026-05-30 15:00 UTC | **131.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Leichlingen (Rhld.)** | 2026-05-30 15:00 UTC | **131.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Hilden** | 2026-05-30 15:00 UTC | **130.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Langenfeld (Rhld.)** | 2026-05-30 15:00 UTC | **130.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Remscheid** | 2026-05-30 15:00 UTC | **130.6** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Rösrath** | 2026-05-30 14:00 UTC | **129.5** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Troisdorf** | 2026-05-30 14:00 UTC | **129.5** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Sankt Augustin** | 2026-05-30 15:00 UTC | **128.7** |
 
 ### Colour scale (µg/m³)
 
