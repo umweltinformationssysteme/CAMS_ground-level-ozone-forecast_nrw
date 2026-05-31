@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-30)
+## Top 10 — Highest Ozone Values Today (2026-05-31)
 
-*Forecast base: 2026-05-30 00:00 UTC · Generated: 2026-05-30T08:28:23Z*
+*Forecast base: 2026-05-31 00:00 UTC · Generated: 2026-05-31T08:45:17Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Gangelt** | 2026-05-30 16:00 UTC | **132.4** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Solingen** | 2026-05-30 15:00 UTC | **131.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Haan** | 2026-05-30 15:00 UTC | **131.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Leichlingen (Rhld.)** | 2026-05-30 15:00 UTC | **131.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Hilden** | 2026-05-30 15:00 UTC | **130.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Langenfeld (Rhld.)** | 2026-05-30 15:00 UTC | **130.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Remscheid** | 2026-05-30 15:00 UTC | **130.6** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Rösrath** | 2026-05-30 14:00 UTC | **129.5** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Troisdorf** | 2026-05-30 14:00 UTC | **129.5** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Sankt Augustin** | 2026-05-30 15:00 UTC | **128.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ochtrup** | 2026-05-31 13:00 UTC | **114.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erwitte** | 2026-05-31 14:00 UTC | **113.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lippstadt** | 2026-05-31 14:00 UTC | **113.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gronau (Westf.)** | 2026-05-31 12:00 UTC | **113.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ense** | 2026-05-31 13:00 UTC | **113.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Werl** | 2026-05-31 13:00 UTC | **113.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Paderborn** | 2026-05-31 15:00 UTC | **112.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Iserlohn** | 2026-05-31 14:00 UTC | **112.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nachrodt-Wiblingwerde** | 2026-05-31 14:00 UTC | **112.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lünen** | 2026-05-31 13:00 UTC | **112.1** |
 
 ### Colour scale (µg/m³)
 
