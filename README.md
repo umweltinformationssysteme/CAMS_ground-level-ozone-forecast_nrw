@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-05-31)
+## Top 10 — Highest Ozone Values Today (2026-06-01)
 
-*Forecast base: 2026-05-31 00:00 UTC · Generated: 2026-05-31T08:45:17Z*
+*Forecast base: 2026-06-01 00:00 UTC · Generated: 2026-06-01T11:41:29Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ochtrup** | 2026-05-31 13:00 UTC | **114.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erwitte** | 2026-05-31 14:00 UTC | **113.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lippstadt** | 2026-05-31 14:00 UTC | **113.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gronau (Westf.)** | 2026-05-31 12:00 UTC | **113.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ense** | 2026-05-31 13:00 UTC | **113.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Werl** | 2026-05-31 13:00 UTC | **113.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Paderborn** | 2026-05-31 15:00 UTC | **112.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Iserlohn** | 2026-05-31 14:00 UTC | **112.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nachrodt-Wiblingwerde** | 2026-05-31 14:00 UTC | **112.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lünen** | 2026-05-31 13:00 UTC | **112.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Menden (Sauerland)** | 2026-06-01 15:00 UTC | **109.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Fröndenberg/Ruhr** | 2026-06-01 15:00 UTC | **109.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ense** | 2026-06-01 16:00 UTC | **108.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Werl** | 2026-06-01 16:00 UTC | **108.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wickede (Ruhr)** | 2026-06-01 15:00 UTC | **107.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bönen** | 2026-06-01 16:00 UTC | **106.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Schwerte** | 2026-06-01 15:00 UTC | **106.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Iserlohn** | 2026-06-01 15:00 UTC | **106.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nachrodt-Wiblingwerde** | 2026-06-01 15:00 UTC | **106.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hagen** | 2026-06-01 15:00 UTC | **105.9** |
 
 ### Colour scale (µg/m³)
 
