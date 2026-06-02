@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-01)
+## Top 10 — Highest Ozone Values Today (2026-06-02)
 
-*Forecast base: 2026-06-01 00:00 UTC · Generated: 2026-06-01T11:41:29Z*
+*Forecast base: 2026-06-02 00:00 UTC · Generated: 2026-06-02T10:23:54Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Menden (Sauerland)** | 2026-06-01 15:00 UTC | **109.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Fröndenberg/Ruhr** | 2026-06-01 15:00 UTC | **109.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Ense** | 2026-06-01 16:00 UTC | **108.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Werl** | 2026-06-01 16:00 UTC | **108.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wickede (Ruhr)** | 2026-06-01 15:00 UTC | **107.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bönen** | 2026-06-01 16:00 UTC | **106.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Schwerte** | 2026-06-01 15:00 UTC | **106.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Iserlohn** | 2026-06-01 15:00 UTC | **106.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Nachrodt-Wiblingwerde** | 2026-06-01 15:00 UTC | **106.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hagen** | 2026-06-01 15:00 UTC | **105.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rahden** | 2026-06-02 16:00 UTC | **96.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-02 16:00 UTC | **95.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-06-02 16:00 UTC | **95.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Herten** | 2026-06-02 14:00 UTC | **95.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hopsten** | 2026-06-02 14:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Mettingen** | 2026-06-02 14:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recke** | 2026-06-02 14:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hörstel** | 2026-06-02 15:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Marl** | 2026-06-02 14:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recklinghausen** | 2026-06-02 14:00 UTC | **95.2** |
 
 ### Colour scale (µg/m³)
 
