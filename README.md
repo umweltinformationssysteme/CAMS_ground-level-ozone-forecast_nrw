@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-02)
+## Top 10 — Highest Ozone Values Today (2026-06-03)
 
-*Forecast base: 2026-06-02 00:00 UTC · Generated: 2026-06-02T10:23:54Z*
+*Forecast base: 2026-06-03 00:00 UTC · Generated: 2026-06-03T10:59:08Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rahden** | 2026-06-02 16:00 UTC | **96.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-02 16:00 UTC | **95.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-06-02 16:00 UTC | **95.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Herten** | 2026-06-02 14:00 UTC | **95.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hopsten** | 2026-06-02 14:00 UTC | **95.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Mettingen** | 2026-06-02 14:00 UTC | **95.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recke** | 2026-06-02 14:00 UTC | **95.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hörstel** | 2026-06-02 15:00 UTC | **95.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Marl** | 2026-06-02 14:00 UTC | **95.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recklinghausen** | 2026-06-02 14:00 UTC | **95.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schlangen** | 2026-06-03 15:00 UTC | **83.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Detmold** | 2026-06-03 15:00 UTC | **83.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Dörentrup** | 2026-06-03 15:00 UTC | **83.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-03 15:00 UTC | **83.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Blomberg** | 2026-06-03 15:00 UTC | **83.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Horn-Bad Meinberg** | 2026-06-03 15:00 UTC | **83.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Barntrup** | 2026-06-03 15:00 UTC | **83.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schieder-Schwalenberg** | 2026-06-03 15:00 UTC | **83.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-03 16:00 UTC | **83.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-06-03 16:00 UTC | **83.2** |
 
 ### Colour scale (µg/m³)
 
