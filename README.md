@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-03)
+## Top 10 — Highest Ozone Values Today (2026-06-04)
 
-*Forecast base: 2026-06-03 00:00 UTC · Generated: 2026-06-03T10:59:08Z*
+*Forecast base: 2026-06-04 00:00 UTC · Generated: 2026-06-04T09:55:54Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schlangen** | 2026-06-03 15:00 UTC | **83.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Detmold** | 2026-06-03 15:00 UTC | **83.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Dörentrup** | 2026-06-03 15:00 UTC | **83.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-03 15:00 UTC | **83.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Blomberg** | 2026-06-03 15:00 UTC | **83.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Horn-Bad Meinberg** | 2026-06-03 15:00 UTC | **83.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Barntrup** | 2026-06-03 15:00 UTC | **83.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schieder-Schwalenberg** | 2026-06-03 15:00 UTC | **83.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-03 16:00 UTC | **83.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-06-03 16:00 UTC | **83.2** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Ahlen** | 2026-06-04 14:00 UTC | **74.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Sendenhorst** | 2026-06-04 14:00 UTC | **74.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Bocholt** | 2026-06-04 16:00 UTC | **74.0** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Rhede** | 2026-06-04 16:00 UTC | **74.0** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Drensteinfurt** | 2026-06-04 14:00 UTC | **73.9** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Warendorf** | 2026-06-04 14:00 UTC | **73.9** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Vreden** | 2026-06-04 16:00 UTC | **73.8** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Moers** | 2026-06-04 16:00 UTC | **73.8** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Südlohn** | 2026-06-04 16:00 UTC | **73.6** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Everswinkel** | 2026-06-04 14:00 UTC | **73.6** |
 
 ### Colour scale (µg/m³)
 
