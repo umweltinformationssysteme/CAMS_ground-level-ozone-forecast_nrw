@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-04)
+## Top 10 — Highest Ozone Values Today (2026-06-05)
 
-*Forecast base: 2026-06-04 00:00 UTC · Generated: 2026-06-04T09:55:54Z*
+*Forecast base: 2026-06-05 00:00 UTC · Generated: 2026-06-05T09:49:50Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Ahlen** | 2026-06-04 14:00 UTC | **74.5** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Sendenhorst** | 2026-06-04 14:00 UTC | **74.3** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Bocholt** | 2026-06-04 16:00 UTC | **74.0** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Rhede** | 2026-06-04 16:00 UTC | **74.0** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Drensteinfurt** | 2026-06-04 14:00 UTC | **73.9** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Warendorf** | 2026-06-04 14:00 UTC | **73.9** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Vreden** | 2026-06-04 16:00 UTC | **73.8** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Moers** | 2026-06-04 16:00 UTC | **73.8** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Südlohn** | 2026-06-04 16:00 UTC | **73.6** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Everswinkel** | 2026-06-04 14:00 UTC | **73.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Willich** | 2026-06-05 15:00 UTC | **80.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Mönchengladbach** | 2026-06-05 16:00 UTC | **80.0** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Jüchen** | 2026-06-05 16:00 UTC | **79.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Korschenbroich** | 2026-06-05 16:00 UTC | **79.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Grevenbroich** | 2026-06-05 15:00 UTC | **79.2** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Viersen** | 2026-06-05 15:00 UTC | **79.2** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Krefeld** | 2026-06-05 16:00 UTC | **78.8** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Niederkrüchten** | 2026-06-05 15:00 UTC | **78.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Wegberg** | 2026-06-05 15:00 UTC | **78.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Schwalmtal** | 2026-06-05 14:00 UTC | **78.5** |
 
 ### Colour scale (µg/m³)
 
