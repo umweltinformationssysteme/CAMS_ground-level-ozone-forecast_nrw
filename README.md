@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-07)
+## Top 10 — Highest Ozone Values Today (2026-06-08)
 
-*Forecast base: 2026-06-07 00:00 UTC · Generated: 2026-06-07T08:55:52Z*
+*Forecast base: 2026-06-08 00:00 UTC · Generated: 2026-06-08T10:54:12Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bedburg** | 2026-06-07 14:00 UTC | **93.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Elsdorf** | 2026-06-07 14:00 UTC | **93.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Mönchengladbach** | 2026-06-07 15:00 UTC | **93.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Köln** | 2026-06-07 14:00 UTC | **93.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bergisch Gladbach** | 2026-06-07 14:00 UTC | **93.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Jüchen** | 2026-06-07 15:00 UTC | **92.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Korschenbroich** | 2026-06-07 15:00 UTC | **92.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Baesweiler** | 2026-06-07 14:00 UTC | **92.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geilenkirchen** | 2026-06-07 14:00 UTC | **92.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Übach-Palenberg** | 2026-06-07 14:00 UTC | **92.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheine** | 2026-06-08 15:00 UTC | **96.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Mettingen** | 2026-06-08 17:00 UTC | **96.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recke** | 2026-06-08 17:00 UTC | **96.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Westerkappeln** | 2026-06-08 16:00 UTC | **96.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emsdetten** | 2026-06-08 15:00 UTC | **96.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Havixbeck** | 2026-06-08 15:00 UTC | **95.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ibbenbüren** | 2026-06-08 12:00 UTC | **95.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Coesfeld** | 2026-06-08 15:00 UTC | **95.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ahaus** | 2026-06-08 15:00 UTC | **95.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hopsten** | 2026-06-08 13:00 UTC | **95.5** |
 
 ### Colour scale (µg/m³)
 
