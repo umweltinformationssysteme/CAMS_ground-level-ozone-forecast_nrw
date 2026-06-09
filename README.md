@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-08)
+## Top 10 — Highest Ozone Values Today (2026-06-09)
 
-*Forecast base: 2026-06-08 00:00 UTC · Generated: 2026-06-08T10:54:12Z*
+*Forecast base: 2026-06-09 00:00 UTC · Generated: 2026-06-09T09:44:13Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rheine** | 2026-06-08 15:00 UTC | **96.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Mettingen** | 2026-06-08 17:00 UTC | **96.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recke** | 2026-06-08 17:00 UTC | **96.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Westerkappeln** | 2026-06-08 16:00 UTC | **96.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Emsdetten** | 2026-06-08 15:00 UTC | **96.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Havixbeck** | 2026-06-08 15:00 UTC | **95.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ibbenbüren** | 2026-06-08 12:00 UTC | **95.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Coesfeld** | 2026-06-08 15:00 UTC | **95.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ahaus** | 2026-06-08 15:00 UTC | **95.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hopsten** | 2026-06-08 13:00 UTC | **95.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erwitte** | 2026-06-09 16:00 UTC | **100.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lippstadt** | 2026-06-09 16:00 UTC | **100.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bönen** | 2026-06-09 15:00 UTC | **99.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Holzwickede** | 2026-06-09 15:00 UTC | **98.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kamen** | 2026-06-09 15:00 UTC | **98.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Unna** | 2026-06-09 15:00 UTC | **98.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Anröchte** | 2026-06-09 15:00 UTC | **98.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Sassendorf** | 2026-06-09 15:00 UTC | **98.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Soest** | 2026-06-09 15:00 UTC | **98.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ense** | 2026-06-09 15:00 UTC | **97.9** |
 
 ### Colour scale (µg/m³)
 
