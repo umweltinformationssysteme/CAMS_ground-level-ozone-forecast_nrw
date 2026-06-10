@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-09)
+## Top 10 — Highest Ozone Values Today (2026-06-10)
 
-*Forecast base: 2026-06-09 00:00 UTC · Generated: 2026-06-09T09:44:13Z*
+*Forecast base: 2026-06-10 00:00 UTC · Generated: 2026-06-10T10:00:16Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Erwitte** | 2026-06-09 16:00 UTC | **100.7** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lippstadt** | 2026-06-09 16:00 UTC | **100.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bönen** | 2026-06-09 15:00 UTC | **99.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Holzwickede** | 2026-06-09 15:00 UTC | **98.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kamen** | 2026-06-09 15:00 UTC | **98.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Unna** | 2026-06-09 15:00 UTC | **98.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Anröchte** | 2026-06-09 15:00 UTC | **98.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Sassendorf** | 2026-06-09 15:00 UTC | **98.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Soest** | 2026-06-09 15:00 UTC | **98.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Ense** | 2026-06-09 15:00 UTC | **97.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-10 14:00 UTC | **85.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-06-10 14:00 UTC | **85.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-06-10 14:00 UTC | **85.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Petershagen** | 2026-06-10 14:00 UTC | **84.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Detmold** | 2026-06-10 15:00 UTC | **84.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vlotho** | 2026-06-10 14:00 UTC | **84.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-10 15:00 UTC | **84.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalletal** | 2026-06-10 14:00 UTC | **84.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Augustdorf** | 2026-06-10 15:00 UTC | **83.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lage** | 2026-06-10 15:00 UTC | **83.8** |
 
 ### Colour scale (µg/m³)
 
