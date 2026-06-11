@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-10)
+## Top 10 — Highest Ozone Values Today (2026-06-11)
 
-*Forecast base: 2026-06-10 00:00 UTC · Generated: 2026-06-10T10:00:16Z*
+*Forecast base: 2026-06-11 00:00 UTC · Generated: 2026-06-11T10:24:39Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-10 14:00 UTC | **85.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Porta Westfalica** | 2026-06-10 14:00 UTC | **85.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-06-10 14:00 UTC | **85.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Petershagen** | 2026-06-10 14:00 UTC | **84.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Detmold** | 2026-06-10 15:00 UTC | **84.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Vlotho** | 2026-06-10 14:00 UTC | **84.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-10 15:00 UTC | **84.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalletal** | 2026-06-10 14:00 UTC | **84.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Augustdorf** | 2026-06-10 15:00 UTC | **83.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lage** | 2026-06-10 15:00 UTC | **83.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borgentreich** | 2026-06-11 16:00 UTC | **88.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beverungen** | 2026-06-11 16:00 UTC | **87.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hüllhorst** | 2026-06-11 13:00 UTC | **86.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warburg** | 2026-06-11 16:00 UTC | **86.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-11 14:00 UTC | **86.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-06-11 15:00 UTC | **86.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Petershagen** | 2026-06-11 15:00 UTC | **86.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bielefeld** | 2026-06-11 15:00 UTC | **86.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalletal** | 2026-06-11 15:00 UTC | **86.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-11 15:00 UTC | **86.3** |
 
 ### Colour scale (µg/m³)
 
