@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-11)
+## Top 10 — Highest Ozone Values Today (2026-06-12)
 
-*Forecast base: 2026-06-11 00:00 UTC · Generated: 2026-06-11T10:24:39Z*
+*Forecast base: 2026-06-12 00:00 UTC · Generated: 2026-06-12T10:13:18Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borgentreich** | 2026-06-11 16:00 UTC | **88.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beverungen** | 2026-06-11 16:00 UTC | **87.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hüllhorst** | 2026-06-11 13:00 UTC | **86.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Warburg** | 2026-06-11 16:00 UTC | **86.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-11 14:00 UTC | **86.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Oeynhausen** | 2026-06-11 15:00 UTC | **86.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Petershagen** | 2026-06-11 15:00 UTC | **86.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bielefeld** | 2026-06-11 15:00 UTC | **86.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Kalletal** | 2026-06-11 15:00 UTC | **86.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Minden** | 2026-06-11 15:00 UTC | **86.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Stolberg (Rhld.)** | 2026-06-12 00:00 UTC | **63.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Hürtgenwald** | 2026-06-12 01:00 UTC | **63.4** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Heimbach** | 2026-06-12 00:00 UTC | **62.9** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Nideggen** | 2026-06-12 00:00 UTC | **62.9** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Simmerath** | 2026-06-12 00:00 UTC | **62.8** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Aachen** | 2026-06-12 00:00 UTC | **62.6** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Brilon** | 2026-06-12 01:00 UTC | **62.5** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Schleiden** | 2026-06-12 00:00 UTC | **62.4** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Kreuzau** | 2026-06-12 00:00 UTC | **62.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Monschau** | 2026-06-12 00:00 UTC | **62.1** |
 
 ### Colour scale (µg/m³)
 
