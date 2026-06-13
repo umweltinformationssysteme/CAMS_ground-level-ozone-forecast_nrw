@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-12)
+## Top 10 — Highest Ozone Values Today (2026-06-13)
 
-*Forecast base: 2026-06-12 00:00 UTC · Generated: 2026-06-12T10:13:18Z*
+*Forecast base: 2026-06-13 00:00 UTC · Generated: 2026-06-13T08:58:23Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Stolberg (Rhld.)** | 2026-06-12 00:00 UTC | **63.5** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Hürtgenwald** | 2026-06-12 01:00 UTC | **63.4** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Heimbach** | 2026-06-12 00:00 UTC | **62.9** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Nideggen** | 2026-06-12 00:00 UTC | **62.9** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Simmerath** | 2026-06-12 00:00 UTC | **62.8** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Aachen** | 2026-06-12 00:00 UTC | **62.6** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Brilon** | 2026-06-12 01:00 UTC | **62.5** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Schleiden** | 2026-06-12 00:00 UTC | **62.4** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Kreuzau** | 2026-06-12 00:00 UTC | **62.3** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Monschau** | 2026-06-12 00:00 UTC | **62.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Baesweiler** | 2026-06-13 15:00 UTC | **88.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geilenkirchen** | 2026-06-13 15:00 UTC | **88.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Übach-Palenberg** | 2026-06-13 15:00 UTC | **88.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gangelt** | 2026-06-13 15:00 UTC | **88.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Brühl** | 2026-06-13 16:00 UTC | **88.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wesseling** | 2026-06-13 16:00 UTC | **88.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erftstadt** | 2026-06-13 16:00 UTC | **88.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hürth** | 2026-06-13 16:00 UTC | **88.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Niederkassel** | 2026-06-13 16:00 UTC | **88.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Jülich** | 2026-06-13 15:00 UTC | **88.4** |
 
 ### Colour scale (µg/m³)
 
