@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-13)
+## Top 10 — Highest Ozone Values Today (2026-06-14)
 
-*Forecast base: 2026-06-13 00:00 UTC · Generated: 2026-06-13T08:58:23Z*
+*Forecast base: 2026-06-14 00:00 UTC · Generated: 2026-06-14T09:34:01Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Baesweiler** | 2026-06-13 15:00 UTC | **88.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Geilenkirchen** | 2026-06-13 15:00 UTC | **88.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Übach-Palenberg** | 2026-06-13 15:00 UTC | **88.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Gangelt** | 2026-06-13 15:00 UTC | **88.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Brühl** | 2026-06-13 16:00 UTC | **88.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Wesseling** | 2026-06-13 16:00 UTC | **88.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Erftstadt** | 2026-06-13 16:00 UTC | **88.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Hürth** | 2026-06-13 16:00 UTC | **88.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Niederkassel** | 2026-06-13 16:00 UTC | **88.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Jülich** | 2026-06-13 15:00 UTC | **88.4** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Mönchengladbach** | 2026-06-14 16:00 UTC | **78.1** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Jüchen** | 2026-06-14 16:00 UTC | **77.6** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Korschenbroich** | 2026-06-14 16:00 UTC | **77.6** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Bottrop** | 2026-06-14 15:00 UTC | **77.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Gladbeck** | 2026-06-14 15:00 UTC | **77.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Bochum** | 2026-06-14 15:00 UTC | **77.3** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Brüggen** | 2026-06-14 15:00 UTC | **77.2** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Witten** | 2026-06-14 15:00 UTC | **77.2** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Niederkrüchten** | 2026-06-14 16:00 UTC | **77.1** |
+| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Wegberg** | 2026-06-14 16:00 UTC | **77.1** |
 
 ### Colour scale (µg/m³)
 
