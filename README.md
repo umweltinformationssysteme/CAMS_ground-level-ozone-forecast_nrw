@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-14)
+## Top 10 — Highest Ozone Values Today (2026-06-15)
 
-*Forecast base: 2026-06-14 00:00 UTC · Generated: 2026-06-14T09:34:01Z*
+*Forecast base: 2026-06-15 00:00 UTC · Generated: 2026-06-15T14:22:56Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Mönchengladbach** | 2026-06-14 16:00 UTC | **78.1** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Jüchen** | 2026-06-14 16:00 UTC | **77.6** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Korschenbroich** | 2026-06-14 16:00 UTC | **77.6** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Bottrop** | 2026-06-14 15:00 UTC | **77.3** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Gladbeck** | 2026-06-14 15:00 UTC | **77.3** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Bochum** | 2026-06-14 15:00 UTC | **77.3** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Brüggen** | 2026-06-14 15:00 UTC | **77.2** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Witten** | 2026-06-14 15:00 UTC | **77.2** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Niederkrüchten** | 2026-06-14 16:00 UTC | **77.1** |
-| ![](https://placehold.co/16x16/BFDFCD/BFDFCD.png) | **Wegberg** | 2026-06-14 16:00 UTC | **77.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Waltrop** | 2026-06-15 16:00 UTC | **84.5** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bocholt** | 2026-06-15 16:00 UTC | **84.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rhede** | 2026-06-15 16:00 UTC | **84.4** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Datteln** | 2026-06-15 16:00 UTC | **84.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Oer-Erkenschwick** | 2026-06-15 16:00 UTC | **84.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lünen** | 2026-06-15 16:00 UTC | **84.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Marl** | 2026-06-15 16:00 UTC | **84.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recklinghausen** | 2026-06-15 16:00 UTC | **84.2** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Herten** | 2026-06-15 16:00 UTC | **84.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borken** | 2026-06-15 16:00 UTC | **83.7** |
 
 ### Colour scale (µg/m³)
 
