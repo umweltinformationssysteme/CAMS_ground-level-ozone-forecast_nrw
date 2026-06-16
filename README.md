@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-15)
+## Top 10 — Highest Ozone Values Today (2026-06-16)
 
-*Forecast base: 2026-06-15 00:00 UTC · Generated: 2026-06-15T14:22:56Z*
+*Forecast base: 2026-06-16 00:00 UTC · Generated: 2026-06-16T11:10:04Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Waltrop** | 2026-06-15 16:00 UTC | **84.5** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bocholt** | 2026-06-15 16:00 UTC | **84.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Rhede** | 2026-06-15 16:00 UTC | **84.4** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Datteln** | 2026-06-15 16:00 UTC | **84.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Oer-Erkenschwick** | 2026-06-15 16:00 UTC | **84.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lünen** | 2026-06-15 16:00 UTC | **84.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Marl** | 2026-06-15 16:00 UTC | **84.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Recklinghausen** | 2026-06-15 16:00 UTC | **84.2** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Herten** | 2026-06-15 16:00 UTC | **84.0** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Borken** | 2026-06-15 16:00 UTC | **83.7** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hilden** | 2026-06-16 15:00 UTC | **102.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Langenfeld (Rhld.)** | 2026-06-16 15:00 UTC | **102.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Solingen** | 2026-06-16 15:00 UTC | **101.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Haan** | 2026-06-16 15:00 UTC | **101.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Leichlingen (Rhld.)** | 2026-06-16 15:00 UTC | **101.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Remscheid** | 2026-06-16 15:00 UTC | **100.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sendenhorst** | 2026-06-16 16:00 UTC | **100.5** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Olpe** | 2026-06-16 17:00 UTC | **100.3** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Altena** | 2026-06-16 16:00 UTC | **100.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lüdenscheid** | 2026-06-16 16:00 UTC | **100.0** |
 
 ### Colour scale (µg/m³)
 
