@@ -9,7 +9,7 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 ## Top 10 — Highest Ozone Values Today (2026-06-17)
 
-*Forecast base: 2026-06-17 00:00 UTC · Generated: 2026-06-17T07:18:49Z*
+*Forecast base: 2026-06-17 00:00 UTC · Generated: 2026-06-17T10:55:32Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
