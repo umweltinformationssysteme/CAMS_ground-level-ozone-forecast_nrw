@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-16)
+## Top 10 — Highest Ozone Values Today (2026-06-17)
 
-*Forecast base: 2026-06-16 00:00 UTC · Generated: 2026-06-16T11:10:04Z*
+*Forecast base: 2026-06-17 00:00 UTC · Generated: 2026-06-17T07:18:49Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Hilden** | 2026-06-16 15:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Langenfeld (Rhld.)** | 2026-06-16 15:00 UTC | **102.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Solingen** | 2026-06-16 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Haan** | 2026-06-16 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Leichlingen (Rhld.)** | 2026-06-16 15:00 UTC | **101.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Remscheid** | 2026-06-16 15:00 UTC | **100.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Sendenhorst** | 2026-06-16 16:00 UTC | **100.5** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Olpe** | 2026-06-16 17:00 UTC | **100.3** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Altena** | 2026-06-16 16:00 UTC | **100.0** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Lüdenscheid** | 2026-06-16 16:00 UTC | **100.0** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beverungen** | 2026-06-17 12:00 UTC | **98.3** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-17 12:00 UTC | **95.6** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Steinheim** | 2026-06-17 15:00 UTC | **95.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lügde** | 2026-06-17 12:00 UTC | **95.1** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nieheim** | 2026-06-17 14:00 UTC | **94.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schlangen** | 2026-06-17 14:00 UTC | **94.9** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Dörentrup** | 2026-06-17 12:00 UTC | **94.8** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Marienmünster** | 2026-06-17 13:00 UTC | **94.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Horn-Bad Meinberg** | 2026-06-17 13:00 UTC | **94.7** |
+| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Lippspringe** | 2026-06-17 14:00 UTC | **94.7** |
 
 ### Colour scale (µg/m³)
 
