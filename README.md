@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-17)
+## Top 10 — Highest Ozone Values Today (2026-06-18)
 
-*Forecast base: 2026-06-17 00:00 UTC · Generated: 2026-06-17T10:55:32Z*
+*Forecast base: 2026-06-18 00:00 UTC · Generated: 2026-06-18T10:20:57Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Beverungen** | 2026-06-17 12:00 UTC | **98.3** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Extertal** | 2026-06-17 12:00 UTC | **95.6** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Steinheim** | 2026-06-17 15:00 UTC | **95.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Lügde** | 2026-06-17 12:00 UTC | **95.1** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Nieheim** | 2026-06-17 14:00 UTC | **94.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Schlangen** | 2026-06-17 14:00 UTC | **94.9** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Dörentrup** | 2026-06-17 12:00 UTC | **94.8** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Marienmünster** | 2026-06-17 13:00 UTC | **94.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Horn-Bad Meinberg** | 2026-06-17 13:00 UTC | **94.7** |
-| ![](https://placehold.co/16x16/EBEEB3/EBEEB3.png) | **Bad Lippspringe** | 2026-06-17 14:00 UTC | **94.7** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Solingen** | 2026-06-18 15:00 UTC | **138.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Haan** | 2026-06-18 15:00 UTC | **138.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Leichlingen (Rhld.)** | 2026-06-18 15:00 UTC | **138.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Castrop-Rauxel** | 2026-06-18 16:00 UTC | **137.3** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Köln** | 2026-06-18 15:00 UTC | **136.9** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Herne** | 2026-06-18 16:00 UTC | **136.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Waltrop** | 2026-06-18 16:00 UTC | **136.1** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Dortmund** | 2026-06-18 16:00 UTC | **135.9** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bergisch Gladbach** | 2026-06-18 16:00 UTC | **135.3** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Lünen** | 2026-06-18 16:00 UTC | **135.2** |
 
 ### Colour scale (µg/m³)
 
