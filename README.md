@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-20)
+## Top 10 — Highest Ozone Values Today (2026-06-22)
 
-*Forecast base: 2026-06-20 00:00 UTC · Generated: 2026-06-20T08:56:08Z*
+*Forecast base: 2026-06-22 00:00 UTC · Generated: 2026-06-22T11:53:48Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Castrop-Rauxel** | 2026-06-20 13:00 UTC | **162.5** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Dortmund** | 2026-06-20 13:00 UTC | **162.2** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Lünen** | 2026-06-20 12:00 UTC | **160.9** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Oelde** | 2026-06-20 13:00 UTC | **160.5** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Herzebrock-Clarholz** | 2026-06-20 13:00 UTC | **158.8** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Rheda-Wiedenbrück** | 2026-06-20 13:00 UTC | **158.8** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Ahlen** | 2026-06-20 12:00 UTC | **158.5** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Holzwickede** | 2026-06-20 14:00 UTC | **158.4** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Kamen** | 2026-06-20 14:00 UTC | **158.4** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Unna** | 2026-06-20 14:00 UTC | **158.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Meckenheim** | 2026-06-22 15:00 UTC | **161.3** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Rheinbach** | 2026-06-22 14:00 UTC | **160.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Bornheim** | 2026-06-22 14:00 UTC | **157.3** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Simmerath** | 2026-06-22 14:00 UTC | **157.1** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Swisttal** | 2026-06-22 14:00 UTC | **155.3** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Hürtgenwald** | 2026-06-22 14:00 UTC | **155.2** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Bonn** | 2026-06-22 14:00 UTC | **154.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Alfter** | 2026-06-22 14:00 UTC | **154.7** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Weilerswist** | 2026-06-22 13:00 UTC | **154.6** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Königswinter** | 2026-06-22 14:00 UTC | **153.6** |
 
 ### Colour scale (µg/m³)
 
