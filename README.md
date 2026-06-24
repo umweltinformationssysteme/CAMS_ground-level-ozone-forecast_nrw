@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-23)
+## Top 10 — Highest Ozone Values Today (2026-06-24)
 
-*Forecast base: 2026-06-23 00:00 UTC · Generated: 2026-06-23T09:38:38Z*
+*Forecast base: 2026-06-24 00:00 UTC · Generated: 2026-06-24T09:29:06Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Rheinbach** | 2026-06-23 16:00 UTC | **135.3** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Meckenheim** | 2026-06-23 16:00 UTC | **132.8** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Frechen** | 2026-06-23 17:00 UTC | **131.1** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Pulheim** | 2026-06-23 17:00 UTC | **131.1** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Sprockhövel** | 2026-06-23 16:00 UTC | **129.0** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bornheim** | 2026-06-23 17:00 UTC | **128.9** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Swisttal** | 2026-06-23 17:00 UTC | **128.8** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Erftstadt** | 2026-06-23 17:00 UTC | **127.8** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Hürth** | 2026-06-23 17:00 UTC | **127.8** |
-| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Königswinter** | 2026-06-23 14:00 UTC | **127.8** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Mülheim an der Ruhr** | 2026-06-24 15:00 UTC | **176.1** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Oberhausen** | 2026-06-24 15:00 UTC | **176.1** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Erftstadt** | 2026-06-24 16:00 UTC | **171.1** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Hürth** | 2026-06-24 16:00 UTC | **171.1** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Dinslaken** | 2026-06-24 15:00 UTC | **170.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Bottrop** | 2026-06-24 16:00 UTC | **168.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Gladbeck** | 2026-06-24 16:00 UTC | **168.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Kranenburg** | 2026-06-24 14:00 UTC | **168.3** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Moers** | 2026-06-24 14:00 UTC | **168.3** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Essen** | 2026-06-24 17:00 UTC | **167.2** |
 
 ### Colour scale (µg/m³)
 
