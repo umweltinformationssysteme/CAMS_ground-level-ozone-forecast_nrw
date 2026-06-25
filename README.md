@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-24)
+## Top 10 — Highest Ozone Values Today (2026-06-25)
 
-*Forecast base: 2026-06-24 00:00 UTC · Generated: 2026-06-24T09:29:06Z*
+*Forecast base: 2026-06-25 00:00 UTC · Generated: 2026-06-25T09:21:32Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Mülheim an der Ruhr** | 2026-06-24 15:00 UTC | **176.1** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Oberhausen** | 2026-06-24 15:00 UTC | **176.1** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Erftstadt** | 2026-06-24 16:00 UTC | **171.1** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Hürth** | 2026-06-24 16:00 UTC | **171.1** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Dinslaken** | 2026-06-24 15:00 UTC | **170.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Bottrop** | 2026-06-24 16:00 UTC | **168.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Gladbeck** | 2026-06-24 16:00 UTC | **168.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Kranenburg** | 2026-06-24 14:00 UTC | **168.3** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Moers** | 2026-06-24 14:00 UTC | **168.3** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Essen** | 2026-06-24 17:00 UTC | **167.2** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Mönchengladbach** | 2026-06-25 14:00 UTC | **204.7** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Hückelhoven** | 2026-06-25 14:00 UTC | **203.0** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Wassenberg** | 2026-06-25 14:00 UTC | **202.7** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Erkelenz** | 2026-06-25 15:00 UTC | **202.2** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Jüchen** | 2026-06-25 14:00 UTC | **201.7** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Korschenbroich** | 2026-06-25 14:00 UTC | **201.7** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Baesweiler** | 2026-06-25 16:00 UTC | **201.5** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Geilenkirchen** | 2026-06-25 16:00 UTC | **201.5** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Übach-Palenberg** | 2026-06-25 16:00 UTC | **201.5** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Linnich** | 2026-06-25 15:00 UTC | **201.0** |
 
 ### Colour scale (µg/m³)
 
