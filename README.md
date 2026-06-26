@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-25)
+## Top 10 — Highest Ozone Values Today (2026-06-26)
 
-*Forecast base: 2026-06-25 00:00 UTC · Generated: 2026-06-25T09:21:32Z*
+*Forecast base: 2026-06-26 00:00 UTC · Generated: 2026-06-26T09:26:36Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Mönchengladbach** | 2026-06-25 14:00 UTC | **204.7** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Hückelhoven** | 2026-06-25 14:00 UTC | **203.0** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Wassenberg** | 2026-06-25 14:00 UTC | **202.7** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Erkelenz** | 2026-06-25 15:00 UTC | **202.2** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Jüchen** | 2026-06-25 14:00 UTC | **201.7** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Korschenbroich** | 2026-06-25 14:00 UTC | **201.7** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Baesweiler** | 2026-06-25 16:00 UTC | **201.5** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Geilenkirchen** | 2026-06-25 16:00 UTC | **201.5** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Übach-Palenberg** | 2026-06-25 16:00 UTC | **201.5** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Linnich** | 2026-06-25 15:00 UTC | **201.0** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Hamminkeln** | 2026-06-26 14:00 UTC | **175.9** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Isselburg** | 2026-06-26 13:00 UTC | **174.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Wesel** | 2026-06-26 13:00 UTC | **172.9** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Rees** | 2026-06-26 13:00 UTC | **172.1** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Xanten** | 2026-06-26 13:00 UTC | **171.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Rheinberg** | 2026-06-26 14:00 UTC | **170.0** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Voerde (Niederrhein)** | 2026-06-26 14:00 UTC | **170.0** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Alpen** | 2026-06-26 13:00 UTC | **169.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Kamp-Lintfort** | 2026-06-26 13:00 UTC | **169.4** |
+| ![](https://placehold.co/16x16/E18620/E18620.png) | **Bocholt** | 2026-06-26 14:00 UTC | **168.3** |
 
 ### Colour scale (µg/m³)
 
