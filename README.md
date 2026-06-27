@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-26)
+## Top 10 — Highest Ozone Values Today (2026-06-27)
 
-*Forecast base: 2026-06-26 00:00 UTC · Generated: 2026-06-26T09:26:36Z*
+*Forecast base: 2026-06-27 00:00 UTC · Generated: 2026-06-27T08:35:49Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Hamminkeln** | 2026-06-26 14:00 UTC | **175.9** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Isselburg** | 2026-06-26 13:00 UTC | **174.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Wesel** | 2026-06-26 13:00 UTC | **172.9** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Rees** | 2026-06-26 13:00 UTC | **172.1** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Xanten** | 2026-06-26 13:00 UTC | **171.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Rheinberg** | 2026-06-26 14:00 UTC | **170.0** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Voerde (Niederrhein)** | 2026-06-26 14:00 UTC | **170.0** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Alpen** | 2026-06-26 13:00 UTC | **169.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Kamp-Lintfort** | 2026-06-26 13:00 UTC | **169.4** |
-| ![](https://placehold.co/16x16/E18620/E18620.png) | **Bocholt** | 2026-06-26 14:00 UTC | **168.3** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Hünxe** | 2026-06-27 14:00 UTC | **204.3** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Schermbeck** | 2026-06-27 16:00 UTC | **203.4** |
+| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Dinslaken** | 2026-06-27 13:00 UTC | **200.8** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Raesfeld** | 2026-06-27 16:00 UTC | **199.5** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Wesel** | 2026-06-27 15:00 UTC | **199.2** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Olfen** | 2026-06-27 12:00 UTC | **199.1** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Lüdinghausen** | 2026-06-27 12:00 UTC | **198.6** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Selm** | 2026-06-27 12:00 UTC | **198.6** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Haltern am See** | 2026-06-27 12:00 UTC | **196.2** |
+| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Nordkirchen** | 2026-06-27 12:00 UTC | **195.4** |
 
 ### Colour scale (µg/m³)
 
