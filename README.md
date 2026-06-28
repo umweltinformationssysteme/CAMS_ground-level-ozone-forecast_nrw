@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-27)
+## Top 10 — Highest Ozone Values Today (2026-06-28)
 
-*Forecast base: 2026-06-27 00:00 UTC · Generated: 2026-06-27T08:35:49Z*
+*Forecast base: 2026-06-28 00:00 UTC · Generated: 2026-06-28T08:51:14Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Hünxe** | 2026-06-27 14:00 UTC | **204.3** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Schermbeck** | 2026-06-27 16:00 UTC | **203.4** |
-| ![](https://placehold.co/16x16/AA4110/AA4110.png) | **Dinslaken** | 2026-06-27 13:00 UTC | **200.8** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Raesfeld** | 2026-06-27 16:00 UTC | **199.5** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Wesel** | 2026-06-27 15:00 UTC | **199.2** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Olfen** | 2026-06-27 12:00 UTC | **199.1** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Lüdinghausen** | 2026-06-27 12:00 UTC | **198.6** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Selm** | 2026-06-27 12:00 UTC | **198.6** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Haltern am See** | 2026-06-27 12:00 UTC | **196.2** |
-| ![](https://placehold.co/16x16/D05C0B/D05C0B.png) | **Nordkirchen** | 2026-06-27 12:00 UTC | **195.4** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Herne** | 2026-06-28 13:00 UTC | **142.9** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Herten** | 2026-06-28 13:00 UTC | **142.3** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Ruppichteroth** | 2026-06-28 15:00 UTC | **142.2** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Dortmund** | 2026-06-28 13:00 UTC | **141.9** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Castrop-Rauxel** | 2026-06-28 13:00 UTC | **141.4** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Holzwickede** | 2026-06-28 14:00 UTC | **141.2** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Kamen** | 2026-06-28 14:00 UTC | **141.2** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Unna** | 2026-06-28 14:00 UTC | **141.2** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Lohmar** | 2026-06-28 12:00 UTC | **141.1** |
+| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Bönen** | 2026-06-28 14:00 UTC | **141.0** |
 
 ### Colour scale (µg/m³)
 
