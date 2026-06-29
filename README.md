@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-28)
+## Top 10 — Highest Ozone Values Today (2026-06-29)
 
-*Forecast base: 2026-06-28 00:00 UTC · Generated: 2026-06-28T08:51:14Z*
+*Forecast base: 2026-06-29 00:00 UTC · Generated: 2026-06-29T10:59:17Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Herne** | 2026-06-28 13:00 UTC | **142.9** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Herten** | 2026-06-28 13:00 UTC | **142.3** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Ruppichteroth** | 2026-06-28 15:00 UTC | **142.2** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Dortmund** | 2026-06-28 13:00 UTC | **141.9** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Castrop-Rauxel** | 2026-06-28 13:00 UTC | **141.4** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Holzwickede** | 2026-06-28 14:00 UTC | **141.2** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Kamen** | 2026-06-28 14:00 UTC | **141.2** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Unna** | 2026-06-28 14:00 UTC | **141.2** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Lohmar** | 2026-06-28 12:00 UTC | **141.1** |
-| ![](https://placehold.co/16x16/EDB43C/EDB43C.png) | **Bönen** | 2026-06-28 14:00 UTC | **141.0** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Essen** | 2026-06-29 17:00 UTC | **115.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Niederkrüchten** | 2026-06-29 16:00 UTC | **115.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wegberg** | 2026-06-29 16:00 UTC | **115.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bochum** | 2026-06-29 17:00 UTC | **114.8** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herten** | 2026-06-29 17:00 UTC | **114.6** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grevenbroich** | 2026-06-29 16:00 UTC | **114.4** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gelsenkirchen** | 2026-06-29 17:00 UTC | **114.2** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bottrop** | 2026-06-29 16:00 UTC | **114.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gladbeck** | 2026-06-29 16:00 UTC | **114.1** |
+| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Solingen** | 2026-06-29 16:00 UTC | **113.7** |
 
 ### Colour scale (µg/m³)
 
