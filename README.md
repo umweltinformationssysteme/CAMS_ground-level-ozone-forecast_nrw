@@ -7,22 +7,22 @@ Data source: [CAMS European Air Quality Forecasts](https://ads.atmosphere.copern
 
 <!-- TOP10_START -->
 
-## Top 10 — Highest Ozone Values Today (2026-06-29)
+## Top 10 — Highest Ozone Values Today (2026-06-30)
 
-*Forecast base: 2026-06-29 00:00 UTC · Generated: 2026-06-29T10:59:17Z*
+*Forecast base: 2026-06-30 00:00 UTC · Generated: 2026-06-30T09:34:48Z*
 
 |   | Municipality | Peak time (UTC) | O₃ (µg/m³) |
 |:---:|:---|:---|---:|
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Essen** | 2026-06-29 17:00 UTC | **115.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Niederkrüchten** | 2026-06-29 16:00 UTC | **115.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Wegberg** | 2026-06-29 16:00 UTC | **115.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bochum** | 2026-06-29 17:00 UTC | **114.8** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Herten** | 2026-06-29 17:00 UTC | **114.6** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Grevenbroich** | 2026-06-29 16:00 UTC | **114.4** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gelsenkirchen** | 2026-06-29 17:00 UTC | **114.2** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Bottrop** | 2026-06-29 16:00 UTC | **114.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Gladbeck** | 2026-06-29 16:00 UTC | **114.1** |
-| ![](https://placehold.co/16x16/FAE88E/FAE88E.png) | **Solingen** | 2026-06-29 16:00 UTC | **113.7** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Iserlohn** | 2026-06-30 15:00 UTC | **131.1** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Nachrodt-Wiblingwerde** | 2026-06-30 15:00 UTC | **131.1** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Holzwickede** | 2026-06-30 14:00 UTC | **130.0** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Kamen** | 2026-06-30 14:00 UTC | **130.0** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Unna** | 2026-06-30 14:00 UTC | **130.0** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Erftstadt** | 2026-06-30 15:00 UTC | **129.3** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Hürth** | 2026-06-30 15:00 UTC | **129.3** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Bergkamen** | 2026-06-30 14:00 UTC | **129.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Werne** | 2026-06-30 14:00 UTC | **129.2** |
+| ![](https://placehold.co/16x16/F5D362/F5D362.png) | **Menden (Sauerland)** | 2026-06-30 15:00 UTC | **129.2** |
 
 ### Colour scale (µg/m³)
 
